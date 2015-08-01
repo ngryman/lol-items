@@ -21,7 +21,7 @@
   <script>
     var ul = document.createElement('ul')
 
-    fetch('snapshot.json').then(function(res) {
+    fetch('dist/snapshot.json').then(function(res) {
       res.json().then(function(items) {
         items.forEach(function(item) {
           ul.innerHTML += `
