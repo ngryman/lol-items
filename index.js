@@ -9,7 +9,10 @@ export default function(options = {}) {
     let baton = { itemsMap, options }
 
     let items = Object.keys(itemsMap)
-    .map((id) => itemsMap[id])
+    .map((id) => {
+      itemsMap[id].id = id
+      return itemsMap[id]
+    })
     .filter((item) => !item.maps || Object.keys(item.maps).includes('11'))
 
     for (let item of items) {

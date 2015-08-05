@@ -19,6 +19,7 @@
     "stats": {
       "FlatMovementSpeedMod": 25
     },
+    "id": "1001",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/1001.png",
     "price": {
       "base": 325,
@@ -41,6 +42,7 @@
       "ManaRegen"
     ],
     "stats": {},
+    "id": "1004",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/1004.png",
     "price": {
       "base": 180,
@@ -65,6 +67,7 @@
       "HealthRegen"
     ],
     "stats": {},
+    "id": "1006",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/1006.png",
     "price": {
       "base": 180,
@@ -95,6 +98,7 @@
       "FlatHPPoolMod": 380
     },
     "depth": 2,
+    "id": "1011",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/1011.png",
     "price": {
       "base": 600,
@@ -120,6 +124,7 @@
     "stats": {
       "FlatCritChanceMod": 0.15
     },
+    "id": "1018",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/1018.png",
     "price": {
       "base": 730,
@@ -147,6 +152,7 @@
     "stats": {
       "FlatMagicDamageMod": 40
     },
+    "id": "1026",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/1026.png",
     "price": {
       "base": 850,
@@ -172,6 +178,7 @@
     "stats": {
       "FlatMPPoolMod": 200
     },
+    "id": "1027",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/1027.png",
     "price": {
       "base": 400,
@@ -207,6 +214,7 @@
     "stats": {
       "FlatHPPoolMod": 150
     },
+    "id": "1028",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/1028.png",
     "price": {
       "base": 400,
@@ -234,6 +242,7 @@
     "stats": {
       "FlatArmorMod": 15
     },
+    "id": "1029",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/1029.png",
     "price": {
       "base": 300,
@@ -262,6 +271,7 @@
       "FlatArmorMod": 40
     },
     "depth": 2,
+    "id": "1031",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/1031.png",
     "price": {
       "base": 450,
@@ -290,6 +300,7 @@
     "stats": {
       "FlatSpellBlockMod": 25
     },
+    "id": "1033",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/1033.png",
     "price": {
       "base": 500,
@@ -323,6 +334,7 @@
     "stats": {
       "FlatPhysicalDamageMod": 10
     },
+    "id": "1036",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/1036.png",
     "price": {
       "base": 360,
@@ -357,6 +369,7 @@
     "stats": {
       "FlatPhysicalDamageMod": 25
     },
+    "id": "1037",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/1037.png",
     "price": {
       "base": 875,
@@ -388,6 +401,7 @@
     "stats": {
       "PercentAttackSpeedMod": 0.15
     },
+    "id": "1042",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/1042.png",
     "price": {
       "base": 450,
@@ -423,6 +437,7 @@
       "Effect1Amount": "10"
     },
     "depth": 2,
+    "id": "1043",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/1043.png",
     "price": {
       "base": 200,
@@ -446,6 +461,7 @@
     "stats": {
       "FlatCritChanceMod": 0.08
     },
+    "id": "1051",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/1051.png",
     "price": {
       "base": 400,
@@ -484,6 +500,7 @@
     "stats": {
       "FlatMagicDamageMod": 20
     },
+    "id": "1052",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/1052.png",
     "price": {
       "base": 435,
@@ -517,6 +534,7 @@
       "PercentLifeStealMod": 0.08
     },
     "depth": 2,
+    "id": "1053",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/1053.png",
     "price": {
       "base": 440,
@@ -542,6 +560,7 @@
     "effect": {
       "Effect1Amount": "8"
     },
+    "id": "1054",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/1054.png",
     "price": {
       "base": 440,
@@ -566,6 +585,7 @@
       "FlatPhysicalDamageMod": 7,
       "PercentLifeStealMod": 0.03
     },
+    "id": "1055",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/1055.png",
     "price": {
       "base": 440,
@@ -593,6 +613,7 @@
     "effect": {
       "Effect1Amount": "4"
     },
+    "id": "1056",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/1056.png",
     "price": {
       "base": 400,
@@ -623,6 +644,7 @@
       "FlatSpellBlockMod": 45
     },
     "depth": 2,
+    "id": "1057",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/1057.png",
     "price": {
       "base": 350,
@@ -647,6 +669,7 @@
       "PercentAttackSpeedMod": 0.25
     },
     "depth": 3,
+    "id": "1300",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/1300.png",
     "price": {
       "base": 475,
@@ -671,6 +694,7 @@
       "PercentAttackSpeedMod": 0.25
     },
     "depth": 3,
+    "id": "1301",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/1301.png",
     "price": {
       "base": 475,
@@ -695,6 +719,7 @@
       "PercentAttackSpeedMod": 0.25
     },
     "depth": 3,
+    "id": "1302",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/1302.png",
     "price": {
       "base": 600,
@@ -719,6 +744,7 @@
       "PercentAttackSpeedMod": 0.25
     },
     "depth": 3,
+    "id": "1303",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/1303.png",
     "price": {
       "base": 475,
@@ -743,6 +769,7 @@
       "PercentAttackSpeedMod": 0.25
     },
     "depth": 3,
+    "id": "1304",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/1304.png",
     "price": {
       "base": 475,
@@ -769,6 +796,7 @@
       "Effect1Amount": "0.25"
     },
     "depth": 3,
+    "id": "1305",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/1305.png",
     "price": {
       "base": 475,
@@ -795,6 +823,7 @@
       "Effect1Amount": "0.25"
     },
     "depth": 3,
+    "id": "1306",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/1306.png",
     "price": {
       "base": 475,
@@ -821,6 +850,7 @@
       "Effect1Amount": "0.25"
     },
     "depth": 3,
+    "id": "1307",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/1307.png",
     "price": {
       "base": 600,
@@ -847,6 +877,7 @@
       "Effect1Amount": "0.25"
     },
     "depth": 3,
+    "id": "1308",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/1308.png",
     "price": {
       "base": 475,
@@ -873,6 +904,7 @@
       "Effect1Amount": "0.25"
     },
     "depth": 3,
+    "id": "1309",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/1309.png",
     "price": {
       "base": 475,
@@ -899,6 +931,7 @@
       "Effect1Amount": "15"
     },
     "depth": 3,
+    "id": "1310",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/1310.png",
     "price": {
       "base": 475,
@@ -925,6 +958,7 @@
       "Effect1Amount": "15"
     },
     "depth": 3,
+    "id": "1311",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/1311.png",
     "price": {
       "base": 475,
@@ -951,6 +985,7 @@
       "Effect1Amount": "15"
     },
     "depth": 3,
+    "id": "1312",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/1312.png",
     "price": {
       "base": 600,
@@ -977,6 +1012,7 @@
       "Effect1Amount": "15"
     },
     "depth": 3,
+    "id": "1313",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/1313.png",
     "price": {
       "base": 475,
@@ -1003,6 +1039,7 @@
       "Effect1Amount": "15"
     },
     "depth": 3,
+    "id": "1314",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/1314.png",
     "price": {
       "base": 475,
@@ -1027,6 +1064,7 @@
       "FlatMovementSpeedMod": 45
     },
     "depth": 3,
+    "id": "1315",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/1315.png",
     "price": {
       "base": 475,
@@ -1051,6 +1089,7 @@
       "FlatMovementSpeedMod": 45
     },
     "depth": 3,
+    "id": "1316",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/1316.png",
     "price": {
       "base": 475,
@@ -1075,6 +1114,7 @@
       "FlatMovementSpeedMod": 45
     },
     "depth": 3,
+    "id": "1317",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/1317.png",
     "price": {
       "base": 600,
@@ -1099,6 +1139,7 @@
       "FlatMovementSpeedMod": 45
     },
     "depth": 3,
+    "id": "1318",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/1318.png",
     "price": {
       "base": 475,
@@ -1123,6 +1164,7 @@
       "FlatMovementSpeedMod": 45
     },
     "depth": 3,
+    "id": "1319",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/1319.png",
     "price": {
       "base": 475,
@@ -1147,6 +1189,7 @@
       "FlatSpellBlockMod": 25
     },
     "depth": 3,
+    "id": "1320",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/1320.png",
     "price": {
       "base": 475,
@@ -1171,6 +1214,7 @@
       "FlatSpellBlockMod": 25
     },
     "depth": 3,
+    "id": "1321",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/1321.png",
     "price": {
       "base": 475,
@@ -1195,6 +1239,7 @@
       "FlatSpellBlockMod": 25
     },
     "depth": 3,
+    "id": "1322",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/1322.png",
     "price": {
       "base": 600,
@@ -1219,6 +1264,7 @@
       "FlatSpellBlockMod": 25
     },
     "depth": 3,
+    "id": "1323",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/1323.png",
     "price": {
       "base": 475,
@@ -1243,6 +1289,7 @@
       "FlatSpellBlockMod": 25
     },
     "depth": 3,
+    "id": "1324",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/1324.png",
     "price": {
       "base": 475,
@@ -1276,6 +1323,7 @@
       "Effect8Amount": "25"
     },
     "depth": 3,
+    "id": "1325",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/1325.png",
     "price": {
       "base": 475,
@@ -1309,6 +1357,7 @@
       "Effect8Amount": "25"
     },
     "depth": 3,
+    "id": "1326",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/1326.png",
     "price": {
       "base": 475,
@@ -1342,6 +1391,7 @@
       "Effect8Amount": "25"
     },
     "depth": 3,
+    "id": "1327",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/1327.png",
     "price": {
       "base": 600,
@@ -1375,6 +1425,7 @@
       "Effect8Amount": "25"
     },
     "depth": 3,
+    "id": "1328",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/1328.png",
     "price": {
       "base": 475,
@@ -1408,6 +1459,7 @@
       "Effect8Amount": "25"
     },
     "depth": 3,
+    "id": "1329",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/1329.png",
     "price": {
       "base": 475,
@@ -1434,6 +1486,7 @@
       "Effect1Amount": "-0.15"
     },
     "depth": 3,
+    "id": "1330",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/1330.png",
     "price": {
       "base": 475,
@@ -1460,6 +1513,7 @@
       "Effect1Amount": "-0.15"
     },
     "depth": 3,
+    "id": "1331",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/1331.png",
     "price": {
       "base": 475,
@@ -1486,6 +1540,7 @@
       "Effect1Amount": "-0.15"
     },
     "depth": 3,
+    "id": "1332",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/1332.png",
     "price": {
       "base": 600,
@@ -1512,6 +1567,7 @@
       "Effect1Amount": "-0.15"
     },
     "depth": 3,
+    "id": "1333",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/1333.png",
     "price": {
       "base": 475,
@@ -1538,6 +1594,7 @@
       "Effect1Amount": "-0.15"
     },
     "depth": 3,
+    "id": "1334",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/1334.png",
     "price": {
       "base": 475,
@@ -1562,6 +1619,7 @@
       "PercentAttackSpeedMod": 0.25
     },
     "depth": 3,
+    "id": "1335",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/1335.png",
     "price": {
       "base": 600,
@@ -1588,6 +1646,7 @@
       "Effect1Amount": "0.25"
     },
     "depth": 3,
+    "id": "1336",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/1336.png",
     "price": {
       "base": 600,
@@ -1614,6 +1673,7 @@
       "Effect1Amount": "15"
     },
     "depth": 3,
+    "id": "1337",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/1337.png",
     "price": {
       "base": 600,
@@ -1638,6 +1698,7 @@
       "FlatMovementSpeedMod": 45
     },
     "depth": 3,
+    "id": "1338",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/1338.png",
     "price": {
       "base": 600,
@@ -1662,6 +1723,7 @@
       "FlatSpellBlockMod": 25
     },
     "depth": 3,
+    "id": "1339",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/1339.png",
     "price": {
       "base": 600,
@@ -1695,6 +1757,7 @@
       "Effect8Amount": "25"
     },
     "depth": 3,
+    "id": "1340",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/1340.png",
     "price": {
       "base": 600,
@@ -1721,6 +1784,7 @@
       "Effect1Amount": "-0.15"
     },
     "depth": 3,
+    "id": "1341",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/1341.png",
     "price": {
       "base": 600,
@@ -1747,6 +1811,7 @@
       "Effect1Amount": "150",
       "Effect2Amount": "15"
     },
+    "id": "2003",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/2003.png",
     "price": {
       "base": 35,
@@ -1772,6 +1837,7 @@
       "Effect1Amount": "100",
       "Effect2Amount": "15"
     },
+    "id": "2004",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/2004.png",
     "price": {
       "base": 35,
@@ -1789,6 +1855,7 @@
     "into": [],
     "tags": [],
     "stats": {},
+    "id": "2009",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/2009.png",
     "price": {
       "base": 0,
@@ -1814,6 +1881,7 @@
       "Effect3Amount": "150",
       "Effect4Amount": "15"
     },
+    "id": "2010",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/2010.png",
     "price": {
       "base": 35,
@@ -1832,6 +1900,7 @@
       "Consumable"
     ],
     "stats": {},
+    "id": "2050",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/2050.png",
     "price": {
       "base": 0,
@@ -1850,6 +1919,7 @@
     "into": [],
     "tags": [],
     "stats": {},
+    "id": "2052",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/2052.png",
     "price": {
       "base": 0,
@@ -1868,6 +1938,7 @@
     "into": [],
     "tags": [],
     "stats": {},
+    "id": "2054",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/2054.png",
     "price": {
       "base": 0,
@@ -1899,6 +1970,7 @@
       "Effect7Amount": "0",
       "Effect8Amount": "9"
     },
+    "id": "2137",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/2137.png",
     "price": {
       "base": 400,
@@ -1931,6 +2003,7 @@
       "Effect7Amount": "0",
       "Effect8Amount": "9"
     },
+    "id": "2138",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/2138.png",
     "price": {
       "base": 400,
@@ -1963,6 +2036,7 @@
       "Effect7Amount": "0",
       "Effect8Amount": "9"
     },
+    "id": "2139",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/2139.png",
     "price": {
       "base": 400,
@@ -1996,6 +2070,7 @@
       "Effect7Amount": "0",
       "Effect8Amount": "9"
     },
+    "id": "2140",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/2140.png",
     "price": {
       "base": 400,
@@ -2026,6 +2101,7 @@
       "Effect1Amount": "-20"
     },
     "depth": 3,
+    "id": "3001",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3001.png",
     "price": {
       "base": 730,
@@ -2062,6 +2138,7 @@
       "Effect5Amount": "8"
     },
     "depth": 3,
+    "id": "3003",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3003.png",
     "price": {
       "base": 1030,
@@ -2099,6 +2176,7 @@
       "Effect5Amount": "8"
     },
     "depth": 3,
+    "id": "3004",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3004.png",
     "price": {
       "base": 605,
@@ -2132,6 +2210,7 @@
       "PercentAttackSpeedMod": 0.25
     },
     "depth": 2,
+    "id": "3006",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3006.png",
     "price": {
       "base": 225,
@@ -2165,6 +2244,7 @@
       "Effect1Amount": "0.25"
     },
     "depth": 2,
+    "id": "3009",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3009.png",
     "price": {
       "base": 675,
@@ -2203,6 +2283,7 @@
       "Effect3Amount": "8"
     },
     "depth": 2,
+    "id": "3010",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3010.png",
     "price": {
       "base": 400,
@@ -2237,6 +2318,7 @@
       "Effect1Amount": "15"
     },
     "depth": 2,
+    "id": "3020",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3020.png",
     "price": {
       "base": 775,
@@ -2271,6 +2353,7 @@
       "Effect3Amount": "0.3"
     },
     "depth": 3,
+    "id": "3022",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3022.png",
     "price": {
       "base": 1025,
@@ -2306,6 +2389,7 @@
       "Effect1Amount": "-0.1"
     },
     "depth": 2,
+    "id": "3024",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3024.png",
     "price": {
       "base": 250,
@@ -2343,6 +2427,7 @@
       "Effect5Amount": "1.5"
     },
     "depth": 3,
+    "id": "3025",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3025.png",
     "price": {
       "base": 750,
@@ -2383,6 +2468,7 @@
       "Effect8Amount": "8"
     },
     "depth": 3,
+    "id": "3027",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3027.png",
     "price": {
       "base": 650,
@@ -2418,6 +2504,7 @@
       "Effect2Amount": "5"
     },
     "depth": 2,
+    "id": "3028",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3028.png",
     "price": {
       "base": 40,
@@ -2446,6 +2533,7 @@
       "Effect1Amount": "0.35"
     },
     "depth": 2,
+    "id": "3035",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3035.png",
     "price": {
       "base": 1065,
@@ -2479,6 +2567,7 @@
       "Effect5Amount": "120"
     },
     "depth": 4,
+    "id": "3040",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3040.png",
     "price": {
       "base": 3000,
@@ -2505,6 +2594,7 @@
       "FlatPhysicalDamageMod": 25
     },
     "depth": 4,
+    "id": "3042",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3042.png",
     "price": {
       "base": 2200,
@@ -2542,6 +2632,7 @@
       "Effect3Amount": "60"
     },
     "depth": 2,
+    "id": "3044",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3044.png",
     "price": {
       "base": 565,
@@ -2571,6 +2662,7 @@
       "FlatCritChanceMod": 0.35
     },
     "depth": 3,
+    "id": "3046",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3046.png",
     "price": {
       "base": 520,
@@ -2604,6 +2696,7 @@
       "FlatMovementSpeedMod": 45
     },
     "depth": 2,
+    "id": "3047",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3047.png",
     "price": {
       "base": 375,
@@ -2646,6 +2739,7 @@
       "Effect8Amount": "10"
     },
     "depth": 3,
+    "id": "3050",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3050.png",
     "price": {
       "base": 480,
@@ -2684,6 +2778,7 @@
       "Effect2Amount": "1"
     },
     "depth": 2,
+    "id": "3057",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3057.png",
     "price": {
       "base": 365,
@@ -2721,6 +2816,7 @@
       "Effect3Amount": "0.75"
     },
     "depth": 3,
+    "id": "3060",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3060.png",
     "price": {
       "base": 280,
@@ -2755,6 +2851,7 @@
       "Effect4Amount": "0.015"
     },
     "depth": 3,
+    "id": "3065",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3065.png",
     "price": {
       "base": 700,
@@ -2791,6 +2888,7 @@
       "Effect1Amount": "-0.1"
     },
     "depth": 2,
+    "id": "3067",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3067.png",
     "price": {
       "base": 450,
@@ -2821,6 +2919,7 @@
       "Effect2Amount": "1"
     },
     "depth": 3,
+    "id": "3068",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3068.png",
     "price": {
       "base": 850,
@@ -2859,6 +2958,7 @@
       "Effect8Amount": "20"
     },
     "depth": 3,
+    "id": "3069",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3069.png",
     "price": {
       "base": 635,
@@ -2895,6 +2995,7 @@
       "Effect6Amount": "2"
     },
     "depth": 2,
+    "id": "3070",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3070.png",
     "price": {
       "base": 140,
@@ -2935,6 +3036,7 @@
       "Effect8Amount": "60"
     },
     "depth": 3,
+    "id": "3071",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3071.png",
     "price": {
       "base": 825,
@@ -2971,6 +3073,7 @@
       "Effect5Amount": "10"
     },
     "depth": 3,
+    "id": "3074",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3074.png",
     "price": {
       "base": 600,
@@ -3009,6 +3112,7 @@
       "Effect5Amount": "10"
     },
     "depth": 2,
+    "id": "3077",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3077.png",
     "price": {
       "base": 305,
@@ -3054,6 +3158,7 @@
       "Effect5Amount": "1.5"
     },
     "depth": 3,
+    "id": "3078",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3078.png",
     "price": {
       "base": 78,
@@ -3086,6 +3191,7 @@
       "Effect2Amount": "1"
     },
     "depth": 2,
+    "id": "3082",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3082.png",
     "price": {
       "base": 450,
@@ -3118,6 +3224,7 @@
       "Effect4Amount": "10"
     },
     "depth": 3,
+    "id": "3085",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3085.png",
     "price": {
       "base": 500,
@@ -3150,6 +3257,7 @@
       "FlatCritChanceMod": 0.1
     },
     "depth": 2,
+    "id": "3086",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3086.png",
     "price": {
       "base": 250,
@@ -3184,6 +3292,7 @@
       "Effect3Amount": "4"
     },
     "depth": 3,
+    "id": "3087",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3087.png",
     "price": {
       "base": 600,
@@ -3217,6 +3326,7 @@
       "Effect3Amount": "5"
     },
     "depth": 3,
+    "id": "3091",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3091.png",
     "price": {
       "base": 550,
@@ -3250,6 +3360,7 @@
       "Effect1Amount": "2"
     },
     "depth": 3,
+    "id": "3092",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3092.png",
     "price": {
       "base": 515,
@@ -3282,6 +3393,7 @@
       "Effect3Amount": "2"
     },
     "depth": 2,
+    "id": "3093",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3093.png",
     "price": {
       "base": 400,
@@ -3316,6 +3428,7 @@
       "Effect4Amount": "10"
     },
     "depth": 2,
+    "id": "3096",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3096.png",
     "price": {
       "base": 500,
@@ -3351,6 +3464,7 @@
       "Effect4Amount": "3"
     },
     "depth": 2,
+    "id": "3097",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3097.png",
     "price": {
       "base": 500,
@@ -3388,6 +3502,7 @@
       "Effect6Amount": "12"
     },
     "depth": 2,
+    "id": "3098",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3098.png",
     "price": {
       "base": 500,
@@ -3421,6 +3536,7 @@
       "Effect3Amount": "1.5"
     },
     "depth": 3,
+    "id": "3100",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3100.png",
     "price": {
       "base": 950,
@@ -3453,6 +3569,7 @@
       "Effect1Amount": "10"
     },
     "depth": 2,
+    "id": "3101",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3101.png",
     "price": {
       "base": 350,
@@ -3485,6 +3602,7 @@
       "Effect3Amount": "10"
     },
     "depth": 3,
+    "id": "3102",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3102.png",
     "price": {
       "base": 1150,
@@ -3521,6 +3639,7 @@
       "Effect2Amount": "0.75"
     },
     "depth": 2,
+    "id": "3105",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3105.png",
     "price": {
       "base": 820,
@@ -3558,6 +3677,7 @@
       "Effect1Amount": "-0.1"
     },
     "depth": 2,
+    "id": "3108",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3108.png",
     "price": {
       "base": 385,
@@ -3590,6 +3710,7 @@
       "Effect2Amount": "-0.15"
     },
     "depth": 3,
+    "id": "3110",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3110.png",
     "price": {
       "base": 450,
@@ -3624,6 +3745,7 @@
       "FlatSpellBlockMod": 25
     },
     "depth": 2,
+    "id": "3111",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3111.png",
     "price": {
       "base": 375,
@@ -3657,6 +3779,7 @@
       "Effect1Amount": "0.05"
     },
     "depth": 2,
+    "id": "3113",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3113.png",
     "price": {
       "base": 415,
@@ -3690,6 +3813,7 @@
       "Effect1Amount": "-0.1"
     },
     "depth": 2,
+    "id": "3114",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3114.png",
     "price": {
       "base": 240,
@@ -3718,6 +3842,7 @@
       "PercentAttackSpeedMod": 0.4
     },
     "depth": 3,
+    "id": "3115",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3115.png",
     "price": {
       "base": 930,
@@ -3754,6 +3879,7 @@
       "Effect6Amount": "-0.4"
     },
     "depth": 3,
+    "id": "3116",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3116.png",
     "price": {
       "base": 315,
@@ -3794,6 +3920,7 @@
       "Effect8Amount": "25"
     },
     "depth": 2,
+    "id": "3117",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3117.png",
     "price": {
       "base": 475,
@@ -3831,6 +3958,7 @@
       "Effect5Amount": "0.1"
     },
     "depth": 2,
+    "id": "3124",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3124.png",
     "price": {
       "base": 865,
@@ -3868,6 +3996,7 @@
       "Effect2Amount": "10"
     },
     "depth": 2,
+    "id": "3134",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3134.png",
     "price": {
       "base": 617,
@@ -3896,6 +4025,7 @@
       "Effect1Amount": "0.35"
     },
     "depth": 2,
+    "id": "3135",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3135.png",
     "price": {
       "base": 1215,
@@ -3930,6 +4060,7 @@
       "Effect1Amount": "15"
     },
     "depth": 2,
+    "id": "3136",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3136.png",
     "price": {
       "base": 665,
@@ -3960,6 +4091,7 @@
       "Effect1Amount": "90"
     },
     "depth": 2,
+    "id": "3140",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3140.png",
     "price": {
       "base": 750,
@@ -3998,6 +4130,7 @@
       "Effect5Amount": "6"
     },
     "depth": 3,
+    "id": "3142",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3142.png",
     "price": {
       "base": 563,
@@ -4026,6 +4159,7 @@
       "FlatArmorMod": 70
     },
     "depth": 3,
+    "id": "3143",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3143.png",
     "price": {
       "base": 800,
@@ -4063,6 +4197,7 @@
       "Effect4Amount": "100"
     },
     "depth": 3,
+    "id": "3144",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3144.png",
     "price": {
       "base": 240,
@@ -4094,6 +4229,7 @@
       "Effect1Amount": "0.12"
     },
     "depth": 2,
+    "id": "3145",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3145.png",
     "price": {
       "base": 330,
@@ -4128,6 +4264,7 @@
       "Effect1Amount": "0.2"
     },
     "depth": 4,
+    "id": "3146",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3146.png",
     "price": {
       "base": 800,
@@ -4166,6 +4303,7 @@
       "Effect4Amount": "3"
     },
     "depth": 3,
+    "id": "3150",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3150.png",
     "price": {
       "base": 795,
@@ -4201,6 +4339,7 @@
       "Effect5Amount": "2"
     },
     "depth": 3,
+    "id": "3151",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3151.png",
     "price": {
       "base": 650,
@@ -4231,6 +4370,7 @@
       "Effect2Amount": "0.05"
     },
     "depth": 3,
+    "id": "3152",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3152.png",
     "price": {
       "base": 480,
@@ -4265,6 +4405,7 @@
       "Effect1Amount": "0.08"
     },
     "depth": 4,
+    "id": "3153",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3153.png",
     "price": {
       "base": 700,
@@ -4300,6 +4441,7 @@
       "Effect4Amount": "90"
     },
     "depth": 2,
+    "id": "3155",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3155.png",
     "price": {
       "base": 590,
@@ -4335,6 +4477,7 @@
       "Effect6Amount": "90"
     },
     "depth": 3,
+    "id": "3156",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3156.png",
     "price": {
       "base": 875,
@@ -4369,6 +4512,7 @@
       "Effect1Amount": "-0.15"
     },
     "depth": 2,
+    "id": "3158",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3158.png",
     "price": {
       "base": 675,
@@ -4401,6 +4545,7 @@
       "Effect3Amount": "4"
     },
     "depth": 3,
+    "id": "3165",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3165.png",
     "price": {
       "base": 445,
@@ -4434,6 +4579,7 @@
       "Effect1Amount": "10"
     },
     "depth": 3,
+    "id": "3172",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3172.png",
     "price": {
       "base": 725,
@@ -4469,6 +4615,7 @@
       "Effect4Amount": "5"
     },
     "depth": 3,
+    "id": "3174",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3174.png",
     "price": {
       "base": 545,
@@ -4507,6 +4654,7 @@
       "Effect6Amount": "60"
     },
     "depth": 3,
+    "id": "3190",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3190.png",
     "price": {
       "base": 50,
@@ -4541,6 +4689,7 @@
       "Effect2Amount": "30"
     },
     "depth": 2,
+    "id": "3191",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3191.png",
     "price": {
       "base": 465,
@@ -4572,6 +4721,7 @@
       "Effect1Amount": "4"
     },
     "depth": 2,
+    "id": "3196",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3196.png",
     "price": {
       "base": 1000,
@@ -4603,6 +4753,7 @@
       "Effect1Amount": "5"
     },
     "depth": 3,
+    "id": "3197",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3197.png",
     "price": {
       "base": 1000,
@@ -4632,6 +4783,7 @@
       "Effect1Amount": "6"
     },
     "depth": 4,
+    "id": "3198",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3198.png",
     "price": {
       "base": 1000,
@@ -4655,6 +4807,7 @@
     "effect": {
       "Effect1Amount": "3"
     },
+    "id": "3200",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3200.png",
     "price": {
       "base": 0,
@@ -4689,6 +4842,7 @@
       "Effect2Amount": "10"
     },
     "depth": 2,
+    "id": "3211",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3211.png",
     "price": {
       "base": 300,
@@ -4720,6 +4874,7 @@
       "Effect2Amount": "5"
     },
     "depth": 3,
+    "id": "3222",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3222.png",
     "price": {
       "base": 950,
@@ -4737,6 +4892,7 @@
     "into": [],
     "tags": [],
     "stats": {},
+    "id": "3240",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3240.png",
     "price": {
       "base": 475,
@@ -4754,6 +4910,7 @@
     "into": [],
     "tags": [],
     "stats": {},
+    "id": "3241",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3241.png",
     "price": {
       "base": 475,
@@ -4771,6 +4928,7 @@
     "into": [],
     "tags": [],
     "stats": {},
+    "id": "3242",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3242.png",
     "price": {
       "base": 600,
@@ -4788,6 +4946,7 @@
     "into": [],
     "tags": [],
     "stats": {},
+    "id": "3243",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3243.png",
     "price": {
       "base": 475,
@@ -4805,6 +4964,7 @@
     "into": [],
     "tags": [],
     "stats": {},
+    "id": "3244",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3244.png",
     "price": {
       "base": 475,
@@ -4830,6 +4990,7 @@
     "hideFromAll": true,
     "tags": [],
     "stats": {},
+    "id": "3245",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3245.png",
     "price": {
       "base": 600,
@@ -4856,6 +5017,7 @@
       "Effect1Amount": "3",
       "Effect2Amount": "5"
     },
+    "id": "3301",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3301.png",
     "price": {
       "base": 365,
@@ -4885,6 +5047,7 @@
       "Effect1Amount": "200",
       "Effect2Amount": "40"
     },
+    "id": "3302",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3302.png",
     "price": {
       "base": 365,
@@ -4913,6 +5076,7 @@
     "effect": {
       "Effect1Amount": "2"
     },
+    "id": "3303",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3303.png",
     "price": {
       "base": 365,
@@ -4945,6 +5109,7 @@
       "Effect2Amount": "50"
     },
     "depth": 3,
+    "id": "3401",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3401.png",
     "price": {
       "base": 485,
@@ -4980,6 +5145,7 @@
       "Effect6Amount": "50"
     },
     "depth": 4,
+    "id": "3430",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3430.png",
     "price": {
       "base": 765,
@@ -5011,6 +5177,7 @@
       "Effect2Amount": "2"
     },
     "depth": 4,
+    "id": "3431",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3431.png",
     "price": {
       "base": 765,
@@ -5045,6 +5212,7 @@
       "Effect1Amount": "-0.2"
     },
     "depth": 3,
+    "id": "3433",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3433.png",
     "price": {
       "base": 380,
@@ -5082,6 +5250,7 @@
       "Effect8Amount": "0.03"
     },
     "depth": 4,
+    "id": "3434",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3434.png",
     "price": {
       "base": 765,
@@ -5115,6 +5284,7 @@
       "Effect4Amount": "30"
     },
     "depth": 3,
+    "id": "3504",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3504.png",
     "price": {
       "base": 650,
@@ -5134,6 +5304,7 @@
       "Active"
     ],
     "stats": {},
+    "id": "3599",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3599.png",
     "price": {
       "base": 0,
@@ -5153,6 +5324,7 @@
     "into": [],
     "tags": [],
     "stats": {},
+    "id": "3611",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3611.png",
     "price": {
       "base": 0,
@@ -5172,6 +5344,7 @@
     "into": [],
     "tags": [],
     "stats": {},
+    "id": "3612",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3612.png",
     "price": {
       "base": 0,
@@ -5191,6 +5364,7 @@
     "into": [],
     "tags": [],
     "stats": {},
+    "id": "3613",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3613.png",
     "price": {
       "base": 0,
@@ -5210,6 +5384,7 @@
     "into": [],
     "tags": [],
     "stats": {},
+    "id": "3614",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3614.png",
     "price": {
       "base": 0,
@@ -5229,6 +5404,7 @@
     "into": [],
     "tags": [],
     "stats": {},
+    "id": "3615",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3615.png",
     "price": {
       "base": 0,
@@ -5248,6 +5424,7 @@
     "into": [],
     "tags": [],
     "stats": {},
+    "id": "3616",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3616.png",
     "price": {
       "base": 0,
@@ -5267,6 +5444,7 @@
     "into": [],
     "tags": [],
     "stats": {},
+    "id": "3617",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3617.png",
     "price": {
       "base": 0,
@@ -5290,6 +5468,7 @@
       "Effect1Amount": "10",
       "Effect2Amount": "10"
     },
+    "id": "3621",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3621.png",
     "price": {
       "base": 0,
@@ -5313,6 +5492,7 @@
       "Effect1Amount": "20",
       "Effect2Amount": "30"
     },
+    "id": "3622",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3622.png",
     "price": {
       "base": 0,
@@ -5336,6 +5516,7 @@
       "Effect1Amount": "30",
       "Effect2Amount": "60"
     },
+    "id": "3623",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3623.png",
     "price": {
       "base": 0,
@@ -5359,6 +5540,7 @@
       "Effect1Amount": "100",
       "Effect2Amount": "100"
     },
+    "id": "3624",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3624.png",
     "price": {
       "base": 0,
@@ -5382,6 +5564,7 @@
       "Effect1Amount": "200",
       "Effect2Amount": "300"
     },
+    "id": "3625",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3625.png",
     "price": {
       "base": 0,
@@ -5405,6 +5588,7 @@
       "Effect1Amount": "300",
       "Effect2Amount": "600"
     },
+    "id": "3626",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3626.png",
     "price": {
       "base": 0,
@@ -5441,6 +5625,7 @@
       "Effect5Amount": "3"
     },
     "depth": 2,
+    "id": "3652",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3652.png",
     "price": {
       "base": 675,
@@ -5477,6 +5662,7 @@
       "Effect5Amount": "1"
     },
     "depth": 3,
+    "id": "3742",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3742.png",
     "price": {
       "base": 1000,
@@ -5511,6 +5697,7 @@
       "Effect4Amount": "10"
     },
     "depth": 3,
+    "id": "3744",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3744.png",
     "price": {
       "base": 300,
@@ -5553,6 +5740,7 @@
       "Effect8Amount": "1000"
     },
     "depth": 3,
+    "id": "3745",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3745.png",
     "price": {
       "base": 450,
@@ -5587,6 +5775,7 @@
       "Effect3Amount": "50"
     },
     "depth": 2,
+    "id": "3751",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3751.png",
     "price": {
       "base": 600,
@@ -5624,6 +5813,7 @@
       "Effect5Amount": "90"
     },
     "depth": 3,
+    "id": "3800",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3800.png",
     "price": {
       "base": 700,
@@ -5654,6 +5844,7 @@
       "FlatHPPoolMod": 200
     },
     "depth": 2,
+    "id": "3801",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3801.png",
     "price": {
       "base": 20,
@@ -5690,6 +5881,7 @@
       "Effect3Amount": "15"
     },
     "depth": 3,
+    "id": "3829",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3829.png",
     "price": {
       "base": 215,
@@ -5723,6 +5915,7 @@
       "Effect5Amount": "100"
     },
     "depth": 3,
+    "id": "3840",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3840.png",
     "price": {
       "base": 635,
@@ -5757,6 +5950,7 @@
       "Effect5Amount": "-1"
     },
     "depth": 2,
+    "id": "3841",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3841.png",
     "price": {
       "base": 500,
@@ -5787,6 +5981,7 @@
       "Effect4Amount": "3",
       "Effect5Amount": "-1"
     },
+    "id": "3844",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3844.png",
     "price": {
       "base": 365,
@@ -5806,6 +6001,7 @@
     "into": [],
     "tags": [],
     "stats": {},
+    "id": "3901",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3901.png",
     "price": {
       "base": 0,
@@ -5825,6 +6021,7 @@
     "into": [],
     "tags": [],
     "stats": {},
+    "id": "3902",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3902.png",
     "price": {
       "base": 0,
@@ -5844,6 +6041,7 @@
     "into": [],
     "tags": [],
     "stats": {},
+    "id": "3903",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3903.png",
     "price": {
       "base": 0,
@@ -5877,6 +6075,7 @@
       "Effect4Amount": "-0.1"
     },
     "depth": 3,
+    "id": "3911",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3911.png",
     "price": {
       "base": 400,
@@ -5915,6 +6114,7 @@
       "Effect8Amount": "20"
     },
     "depth": 3,
+    "id": "3924",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3924.png",
     "price": {
       "base": 300,
@@ -5953,6 +6153,7 @@
     },
     "depth": 4,
     "plaintext": null,
+    "id": "3930",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3930.png",
     "price": {
       "base": 2250,
@@ -5991,6 +6192,7 @@
     },
     "depth": 4,
     "plaintext": null,
+    "id": "3931",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3931.png",
     "price": {
       "base": 2250,
@@ -6029,6 +6231,7 @@
     },
     "depth": 4,
     "plaintext": null,
+    "id": "3932",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3932.png",
     "price": {
       "base": 2250,
@@ -6067,6 +6270,7 @@
     },
     "depth": 4,
     "plaintext": null,
+    "id": "3933",
     "icon": "http://ddragon.leagueoflegends.com/cdn/5.14.1/img/item/3933.png",
     "price": {
       "base": 2250,
