@@ -41,7 +41,7 @@ console.log(items)
 
 The snapshot can also be [downloaded].
 
-[downloaded]: https://github.com/ngryman/lol-items/blob/master/dist/snapshot.json
+[downloaded]: https://github.com/ngryman/lol-items/blob/master/items.json
 
 
 ## License
