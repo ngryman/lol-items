@@ -7,18 +7,18 @@
   "repository": "ngryman/lol-items",
   "main": "index.js",
   "files": [
-    "dist",
-    "lib",
-    "index.js"
+    "index.js",
+    "items.json",
+    "lib"
   ],
   "scripts": {
     "lint": "eslint *.js",
     "spec": "babel-node test.js | tap-spec",
     "test": "npm run lint -s && npm run spec -s",
     "watch": "onchange {,**/}*.js -- npm test -s",
-    "dist": "babel-node -e \"require('./')({ flat: true }).then((items) => require('fs').writeFileSync('dist/snapshot.json', JSON.stringify(items, 0, 2)))\"",
+    "build": "babel-node -e \"require('./')({ flat: true }).then((items) => require('fs').writeFileSync('items.json', JSON.stringify(items, 0, 2)))\"",
     "postinstall": "ln -nsf ../lib node_modules/lol-items",
-    "prepublish": "mkdir -p dist; npm run dist -s"
+    "prepublish": "npm run build -s"
   },
   "keywords": [
     "lol",

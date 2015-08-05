@@ -17,8 +17,10 @@ $ npm install --save lol-items
 
 ## Usage
 
+### Fetch items
+
 ```js
-var fetch = require('lol-items')
+import fetch from 'lol-items'
 
 fetch().then((items) => console.log(items))
 //=> array of items
@@ -28,12 +30,18 @@ fetch({ flat: true }).then((items) => console.log(items))
 //=> array of items
 ```
 
-
 ### Snapshot
 
-The project also expose a [snapshot] that you can directly use.
+```js
+import items from 'lol-items/items'
 
-[snapshot]: https://github.com/ngryman/lol-items/blob/master/dist/snapshot.json
+console.log(items)
+//=> array of items
+```
+
+The snapshot can also be [downloaded].
+
+[downloaded]: https://github.com/ngryman/lol-items/blob/master/dist/snapshot.json
 
 
 ## License
