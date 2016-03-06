@@ -4,12 +4,13 @@ import test from 'blue-tape'
 
 const res = fetch()
 
-test('Fetches champions list from League of Legends API', (t) => res.then((items) => {
+test('Fetches items list from League of Legends API', (t) => res.then((items) => {
   t.assert(Array.isArray(items), 'items is an array')
 }))
 
 test('Adds "id"', (t) => res.then((items) => {
-  t.assert(!!items[0].id, 'id property exists')
+  let item = items[0]
+  t.assert(!!item.id, 'id property exists')
 }))
 
 test('Transmutes "image" object into an valid URL', (t) => res
