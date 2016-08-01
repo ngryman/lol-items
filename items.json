@@ -20,7 +20,7 @@
       "FlatMovementSpeedMod": 25
     },
     "id": "1001",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/1001.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/1001.png",
     "price": {
       "base": 300,
       "total": 300,
@@ -45,7 +45,7 @@
     ],
     "stats": {},
     "id": "1004",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/1004.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/1004.png",
     "price": {
       "base": 125,
       "total": 125,
@@ -59,9 +59,7 @@
     "plaintext": "Slightly increases Health Regen",
     "into": [
       "3077",
-      "3112",
       "2053",
-      "3096",
       "3097",
       "3801"
     ],
@@ -70,7 +68,7 @@
     ],
     "stats": {},
     "id": "1006",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/1006.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/1006.png",
     "price": {
       "base": 150,
       "total": 150,
@@ -100,7 +98,7 @@
     },
     "depth": 2,
     "id": "1011",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/1011.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/1011.png",
     "price": {
       "base": 600,
       "total": 1000,
@@ -114,7 +112,6 @@
     "plaintext": "Increases critical strike chance",
     "into": [
       "3031",
-      "3104",
       "3185",
       "3508"
     ],
@@ -125,7 +122,7 @@
       "FlatCritChanceMod": 0.2
     },
     "id": "1018",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/1018.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/1018.png",
     "price": {
       "base": 800,
       "total": 800,
@@ -153,7 +150,7 @@
       "FlatMagicDamageMod": 40
     },
     "id": "1026",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/1026.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/1026.png",
     "price": {
       "base": 850,
       "total": 850,
@@ -180,7 +177,7 @@
       "FlatMPPoolMod": 250
     },
     "id": "1027",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/1027.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/1027.png",
     "price": {
       "base": 350,
       "total": 350,
@@ -214,7 +211,7 @@
       "FlatHPPoolMod": 150
     },
     "id": "1028",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/1028.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/1028.png",
     "price": {
       "base": 400,
       "total": 400,
@@ -242,7 +239,7 @@
       "FlatArmorMod": 15
     },
     "id": "1029",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/1029.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/1029.png",
     "price": {
       "base": 300,
       "total": 300,
@@ -272,7 +269,7 @@
     },
     "depth": 2,
     "id": "1031",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/1031.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/1031.png",
     "price": {
       "base": 500,
       "total": 800,
@@ -300,7 +297,7 @@
       "FlatSpellBlockMod": 25
     },
     "id": "1033",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/1033.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/1033.png",
     "price": {
       "base": 450,
       "total": 450,
@@ -335,7 +332,7 @@
       "FlatPhysicalDamageMod": 10
     },
     "id": "1036",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/1036.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/1036.png",
     "price": {
       "base": 350,
       "total": 350,
@@ -354,7 +351,6 @@
       "3031",
       "3035",
       "3074",
-      "3104",
       "3124",
       "3139",
       "3181",
@@ -367,7 +363,7 @@
       "FlatPhysicalDamageMod": 25
     },
     "id": "1037",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/1037.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/1037.png",
     "price": {
       "base": 875,
       "total": 875,
@@ -392,7 +388,7 @@
       "FlatPhysicalDamageMod": 40
     },
     "id": "1038",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/1038.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/1038.png",
     "price": {
       "base": 1300,
       "total": 1300,
@@ -426,7 +422,7 @@
       "Effect7Amount": "15"
     },
     "id": "1039",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/1039.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/1039.png",
     "price": {
       "base": 350,
       "total": 350,
@@ -459,7 +455,7 @@
       "Effect7Amount": "15"
     },
     "id": "1041",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/1041.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/1041.png",
     "price": {
       "base": 350,
       "total": 350,
@@ -487,7 +483,7 @@
       "PercentAttackSpeedMod": 0.12
     },
     "id": "1042",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/1042.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/1042.png",
     "price": {
       "base": 300,
       "total": 300,
@@ -527,7 +523,7 @@
     },
     "depth": 2,
     "id": "1043",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/1043.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/1043.png",
     "price": {
       "base": 400,
       "total": 1000,
@@ -550,7 +546,7 @@
       "FlatCritChanceMod": 0.1
     },
     "id": "1051",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/1051.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/1051.png",
     "price": {
       "base": 400,
       "total": 400,
@@ -588,7 +584,7 @@
       "FlatMagicDamageMod": 20
     },
     "id": "1052",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/1052.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/1052.png",
     "price": {
       "base": 435,
       "total": 435,
@@ -621,7 +617,7 @@
     },
     "depth": 2,
     "id": "1053",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/1053.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/1053.png",
     "price": {
       "base": 550,
       "total": 900,
@@ -648,7 +644,7 @@
       "Effect1Amount": "8"
     },
     "id": "1054",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/1054.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/1054.png",
     "price": {
       "base": 450,
       "total": 450,
@@ -677,7 +673,7 @@
       "Effect1Amount": "10"
     },
     "id": "1055",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/1055.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/1055.png",
     "price": {
       "base": 450,
       "total": 450,
@@ -705,7 +701,7 @@
       "Effect1Amount": "4"
     },
     "id": "1056",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/1056.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/1056.png",
     "price": {
       "base": 400,
       "total": 400,
@@ -736,7 +732,7 @@
     },
     "depth": 2,
     "id": "1057",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/1057.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/1057.png",
     "price": {
       "base": 270,
       "total": 720,
@@ -763,7 +759,7 @@
       "FlatMagicDamageMod": 60
     },
     "id": "1058",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/1058.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/1058.png",
     "price": {
       "base": 1250,
       "total": 1250,
@@ -797,7 +793,7 @@
       "Effect6Amount": "4"
     },
     "id": "1082",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/1082.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/1082.png",
     "price": {
       "base": 350,
       "total": 350,
@@ -825,7 +821,7 @@
       "Effect4Amount": "350"
     },
     "id": "1083",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/1083.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/1083.png",
     "price": {
       "base": 450,
       "total": 450,
@@ -860,7 +856,7 @@
     },
     "depth": 3,
     "id": "1400",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/1400.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/1400.png",
     "price": {
       "base": 525,
       "total": 2625,
@@ -895,7 +891,7 @@
     },
     "depth": 3,
     "id": "1401",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/1401.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/1401.png",
     "price": {
       "base": 525,
       "total": 2625,
@@ -932,7 +928,7 @@
     },
     "depth": 3,
     "id": "1402",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/1402.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/1402.png",
     "price": {
       "base": 340,
       "total": 2625,
@@ -967,7 +963,7 @@
     },
     "depth": 3,
     "id": "1408",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/1408.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/1408.png",
     "price": {
       "base": 525,
       "total": 2625,
@@ -1002,7 +998,7 @@
     },
     "depth": 3,
     "id": "1409",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/1409.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/1409.png",
     "price": {
       "base": 525,
       "total": 2625,
@@ -1039,7 +1035,7 @@
     },
     "depth": 3,
     "id": "1410",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/1410.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/1410.png",
     "price": {
       "base": 340,
       "total": 2625,
@@ -1074,7 +1070,7 @@
     },
     "depth": 3,
     "id": "1412",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/1412.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/1412.png",
     "price": {
       "base": 525,
       "total": 2625,
@@ -1109,7 +1105,7 @@
     },
     "depth": 3,
     "id": "1413",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/1413.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/1413.png",
     "price": {
       "base": 525,
       "total": 2625,
@@ -1146,7 +1142,7 @@
     },
     "depth": 3,
     "id": "1414",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/1414.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/1414.png",
     "price": {
       "base": 340,
       "total": 2625,
@@ -1181,7 +1177,7 @@
     },
     "depth": 3,
     "id": "1416",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/1416.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/1416.png",
     "price": {
       "base": 625,
       "total": 2625,
@@ -1216,7 +1212,7 @@
     },
     "depth": 3,
     "id": "1418",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/1418.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/1418.png",
     "price": {
       "base": 625,
       "total": 2625,
@@ -1251,7 +1247,7 @@
     },
     "depth": 3,
     "id": "1419",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/1419.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/1419.png",
     "price": {
       "base": 625,
       "total": 2625,
@@ -1278,7 +1274,7 @@
       "Effect2Amount": "15"
     },
     "id": "2003",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/2003.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/2003.png",
     "price": {
       "base": 50,
       "total": 50,
@@ -1296,7 +1292,7 @@
     "tags": [],
     "stats": {},
     "id": "2009",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/2009.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/2009.png",
     "price": {
       "base": 0,
       "total": 0,
@@ -1307,7 +1303,7 @@
   {
     "name": "Total Biscuit of Rejuvenation",
     "group": "HealthPotion",
-    "description": "<consumable>Click to Consume:</consumable> Restores 15 health and 15 mana immediately and then 150 Health over 15 seconds.",
+    "description": "<consumable>Click to Consume:</consumable> Restores 15 Health and 15 Mana immediately and then 150 Health over 15 seconds.",
     "plaintext": "",
     "consumed": true,
     "stacks": 5,
@@ -1322,7 +1318,7 @@
       "Effect4Amount": "15"
     },
     "id": "2010",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/2010.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/2010.png",
     "price": {
       "base": 50,
       "total": 50,
@@ -1353,7 +1349,7 @@
     },
     "depth": 2,
     "id": "2015",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/2015.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/2015.png",
     "price": {
       "base": 450,
       "total": 750,
@@ -1385,7 +1381,7 @@
       "Effect4Amount": "2"
     },
     "id": "2031",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/2031.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/2031.png",
     "price": {
       "base": 150,
       "total": 150,
@@ -1418,7 +1414,7 @@
     },
     "depth": 2,
     "id": "2032",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/2032.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/2032.png",
     "price": {
       "base": 250,
       "total": 400,
@@ -1455,7 +1451,7 @@
     },
     "depth": 2,
     "id": "2033",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/2033.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/2033.png",
     "price": {
       "base": 350,
       "total": 500,
@@ -1483,7 +1479,7 @@
       "Effect2Amount": "2"
     },
     "id": "2043",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/2043.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/2043.png",
     "price": {
       "base": 75,
       "total": 75,
@@ -1493,7 +1489,7 @@
   },
   {
     "name": "Ruby Sightstone",
-    "description": "<stats>+500 Health</stats><br><br><unique>UNIQUE Passive:</unique> Hextech and other Item Active cooldowns are reduced by 10%.<br><active>UNIQUE Active - Warding:</active> Consumes a charge to place a <font color='#BBFFFF'>Stealth Ward</font> that reveals the surrounding area for 150 seconds. Holds up to 4 charges and refills when visiting the shop.<br><br><rules>(A player may only have 3 <font color='#BBFFFF'>Stealth Wards</font> on the map at one time. Unique Passives with the same name don't stack.)</rules>",
+    "description": "<stats>+500 Health</stats><br><br><unique>UNIQUE Passive:</unique> Item Active cooldowns are reduced by 20%.<br><active>UNIQUE Active - Warding:</active> Consumes a charge to place a <font color='#BBFFFF'>Stealth Ward</font> that reveals the surrounding area for 150 seconds. Holds up to 4 charges and refills when visiting the shop.<br><br><rules>(A player may only have 3 <font color='#BBFFFF'>Stealth Wards</font> on the map at one time. Unique Passives with the same name don't stack.)</rules>",
     "plaintext": "Greatly increases Health and provides Stealth Wards over time",
     "from": [
       "2049",
@@ -1509,24 +1505,24 @@
       "FlatHPPoolMod": 500
     },
     "effect": {
-      "Effect1Amount": "-0.1",
+      "Effect1Amount": "-0.2",
       "Effect2Amount": "4",
       "Effect3Amount": "150"
     },
     "depth": 3,
     "id": "2045",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/2045.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/2045.png",
     "price": {
-      "base": 600,
-      "total": 1800,
-      "sell": 720
+      "base": 400,
+      "total": 1600,
+      "sell": 640
     },
     "purchasable": true
   },
   {
     "name": "Oracle's Extract",
-    "description": "<consumable>Click to Consume:</consumable> Grants detection of nearby invisible units for 5 minutes.",
-    "plaintext": "Allows champion to see invisible units",
+    "description": "<consumable>Click to Consume:</consumable> Grants detection of nearby invisible or unseen enemy units for 5 minutes.",
+    "plaintext": "Allows champion to see invisible or unseen enemy units",
     "consumed": true,
     "consumeOnFull": true,
     "into": [],
@@ -1537,7 +1533,7 @@
     ],
     "stats": {},
     "id": "2047",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/2047.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/2047.png",
     "price": {
       "base": 300,
       "total": 300,
@@ -1572,7 +1568,7 @@
     },
     "depth": 2,
     "id": "2049",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/2049.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/2049.png",
     "price": {
       "base": 400,
       "total": 800,
@@ -1591,7 +1587,7 @@
     ],
     "stats": {},
     "id": "2050",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/2050.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/2050.png",
     "price": {
       "base": 0,
       "total": 0,
@@ -1602,7 +1598,7 @@
   {
     "name": "Guardian's Horn",
     "group": "GuardianItems",
-    "description": "<stats>+150 Health</stats><br><passive>Passive: </passive>Restores 20 Health every 5 seconds.<br><unique>UNIQUE Passive:</unique> Blocks 12 damage from attacks and spells from champions (25% effectiveness vs. damage over time abilities).<br><br><groupLimit>Limited to 1 Guardian's Item.</groupLimit>",
+    "description": "<stats>+150 Health</stats><br><br><passive>Passive: </passive>Restores 20 Health every 5 seconds.<br><unique>UNIQUE Passive:</unique> Blocks 12 damage from attacks and spells from champions (25% effectiveness vs. damage over time abilities).<br><br><groupLimit>Limited to 1 Guardian's Item.</groupLimit>",
     "plaintext": "Good starting item for tanks",
     "into": [],
     "tags": [
@@ -1618,7 +1614,7 @@
       "Effect2Amount": "0.25"
     },
     "id": "2051",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/2051.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/2051.png",
     "price": {
       "base": 950,
       "total": 950,
@@ -1638,7 +1634,7 @@
     "tags": [],
     "stats": {},
     "id": "2052",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/2052.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/2052.png",
     "price": {
       "base": 0,
       "total": 0,
@@ -1656,6 +1652,7 @@
     ],
     "into": [
       "3056",
+      "3069",
       "3512"
     ],
     "tags": [
@@ -1672,7 +1669,7 @@
     },
     "depth": 3,
     "id": "2053",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/2053.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/2053.png",
     "price": {
       "base": 250,
       "total": 1200,
@@ -1691,7 +1688,7 @@
     "tags": [],
     "stats": {},
     "id": "2054",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/2054.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/2054.png",
     "price": {
       "base": 0,
       "total": 0,
@@ -1725,7 +1722,7 @@
       "Effect8Amount": "9"
     },
     "id": "2138",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/2138.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/2138.png",
     "price": {
       "base": 500,
       "total": 500,
@@ -1758,7 +1755,7 @@
       "Effect8Amount": "9"
     },
     "id": "2139",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/2139.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/2139.png",
     "price": {
       "base": 500,
       "total": 500,
@@ -1792,7 +1789,7 @@
       "Effect8Amount": "9"
     },
     "id": "2140",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/2140.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/2140.png",
     "price": {
       "base": 500,
       "total": 500,
@@ -1835,7 +1832,7 @@
     },
     "depth": 3,
     "id": "2301",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/2301.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/2301.png",
     "price": {
       "base": 550,
       "total": 2200,
@@ -1876,7 +1873,7 @@
     },
     "depth": 3,
     "id": "2302",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/2302.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/2302.png",
     "price": {
       "base": 550,
       "total": 2200,
@@ -1887,7 +1884,7 @@
   {
     "name": "Eye of the Equinox",
     "group": "GoldBase",
-    "description": "<stats>+500 Health<br>+100% Base Health Regen <br>+2 Gold per 10 seconds</stats><br><br><unique>UNIQUE Passive - Spoils of War:</unique> Melee basic attacks execute minions below 400 Health. Killing a minion heals the owner and the nearest allied champion for 50 Health and grants them kill Gold. These effects require a nearby ally. Recharges every 30 seconds. Max 4 charges.<br><active>UNIQUE Active - Warding:</active> Consumes a charge to place a <font color='#BBFFFF'>Stealth Ward</font> that reveals the surrounding area for 150 seconds. Holds up to 4 charges which refill upon visiting the shop.<br><br><groupLimit>Limited to 1 Gold Income Item.</groupLimit><br><br><rules>(A player may only have 3 <font color='#BBFFFF'>Stealth Wards</font> on the map at one time. Unique Passives with the same name don't stack.)</rules>",
+    "description": "<stats>+500 Health<br>+100% Base Health Regen <br>+2 Gold per 10 seconds</stats><br><br><unique>UNIQUE Passive - Spoils of War:</unique> Melee basic attacks execute minions below 320 (+20 per level) Health. Killing a minion heals the owner and the nearest allied champion for 50 Health and grants them kill Gold. These effects require a nearby ally. Recharges every 30 seconds. Max 4 charges.<br><active>UNIQUE Active - Warding:</active> Consumes a charge to place a <font color='#BBFFFF'>Stealth Ward</font> that reveals the surrounding area for 150 seconds. Holds up to 4 charges which refill upon visiting the shop.<br><br><groupLimit>Limited to 1 Gold Income Item.</groupLimit><br><br><rules>(A player may only have 3 <font color='#BBFFFF'>Stealth Wards</font> on the map at one time. Unique Passives with the same name don't stack.)</rules>",
     "plaintext": "Provides Health and Stealth Wards over time",
     "from": [
       "2049",
@@ -1905,7 +1902,7 @@
       "FlatHPPoolMod": 500
     },
     "effect": {
-      "Effect1Amount": "400",
+      "Effect1Amount": "320",
       "Effect2Amount": "50",
       "Effect3Amount": "30",
       "Effect4Amount": "4",
@@ -1916,7 +1913,7 @@
     },
     "depth": 3,
     "id": "2303",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/2303.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/2303.png",
     "price": {
       "base": 550,
       "total": 2200,
@@ -1951,7 +1948,7 @@
     },
     "depth": 3,
     "id": "3001",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3001.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3001.png",
     "price": {
       "base": 695,
       "total": 2750,
@@ -1990,7 +1987,7 @@
     },
     "depth": 3,
     "id": "3003",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3003.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3003.png",
     "price": {
       "base": 1100,
       "total": 3100,
@@ -2030,7 +2027,7 @@
     },
     "depth": 3,
     "id": "3004",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3004.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3004.png",
     "price": {
       "base": 775,
       "total": 2400,
@@ -2061,7 +2058,7 @@
     },
     "depth": 2,
     "id": "3006",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3006.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3006.png",
     "price": {
       "base": 500,
       "total": 1100,
@@ -2070,7 +2067,7 @@
     "purchasable": true
   },
   {
-    "name": "Archangel's Staff (Crystal Scar)",
+    "name": "Archangel's Staff (Quick Charge)",
     "description": "<stats>+80 Ability Power<br><mana>+250 Mana</mana></stats><br><br><mana><unique>UNIQUE Passive - Awe:</unique> Grants Ability Power equal to 3% of maximum Mana. Refunds 25% of Mana spent. <br><unique>UNIQUE Passive - Mana Charge:</unique> Grants +12 maximum Mana (max +750 Mana) for each spell cast or Mana expenditure (occurs up to 2 times every 8 seconds).<br><br>Transforms into Seraph's Embrace at +750 Mana.</mana>",
     "plaintext": "Increases Ability Power based on maximum Mana",
     "from": [
@@ -2100,7 +2097,7 @@
     },
     "depth": 3,
     "id": "3007",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3007.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3007.png",
     "price": {
       "base": 1100,
       "total": 3100,
@@ -2109,7 +2106,7 @@
     "purchasable": true
   },
   {
-    "name": "Manamune (Crystal Scar)",
+    "name": "Manamune (Quick Charge)",
     "description": "<stats>+25 Attack Damage<br><mana>+250 Mana</mana></stats><br><br><mana><unique>UNIQUE Passive - Awe:</unique> Grants bonus Attack Damage equal to 2% of maximum Mana. Refunds 15% of Mana spent.<br><unique>UNIQUE Passive - Mana Charge:</unique> Grants +6 maximum Mana (max +750 Mana) for each basic attack, spell cast or Mana expenditure (occurs up to 2 times every 8 seconds).<br><br>Transforms into Muramana at +750 Mana.</mana>",
     "plaintext": "Increases Attack Damage based on maximum Mana",
     "from": [
@@ -2140,7 +2137,7 @@
     },
     "depth": 3,
     "id": "3008",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3008.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3008.png",
     "price": {
       "base": 775,
       "total": 2400,
@@ -2171,7 +2168,7 @@
     },
     "depth": 2,
     "id": "3009",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3009.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3009.png",
     "price": {
       "base": 600,
       "total": 900,
@@ -2213,7 +2210,7 @@
     },
     "depth": 2,
     "id": "3010",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3010.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3010.png",
     "price": {
       "base": 350,
       "total": 1100,
@@ -2245,7 +2242,7 @@
     },
     "depth": 2,
     "id": "3020",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3020.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3020.png",
     "price": {
       "base": 800,
       "total": 1100,
@@ -2280,7 +2277,7 @@
     },
     "depth": 3,
     "id": "3022",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3022.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3022.png",
     "price": {
       "base": 625,
       "total": 3100,
@@ -2316,7 +2313,7 @@
     },
     "depth": 2,
     "id": "3024",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3024.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3024.png",
     "price": {
       "base": 350,
       "total": 1000,
@@ -2352,7 +2349,7 @@
     },
     "depth": 3,
     "id": "3025",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3025.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3025.png",
     "price": {
       "base": 650,
       "total": 2700,
@@ -2385,7 +2382,7 @@
     },
     "depth": 3,
     "id": "3026",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3026.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3026.png",
     "price": {
       "base": 880,
       "total": 2400,
@@ -2426,7 +2423,7 @@
     },
     "depth": 3,
     "id": "3027",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3027.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3027.png",
     "price": {
       "base": 750,
       "total": 2700,
@@ -2466,7 +2463,7 @@
     },
     "depth": 2,
     "id": "3028",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3028.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3028.png",
     "price": {
       "base": 200,
       "total": 900,
@@ -2475,7 +2472,7 @@
     "purchasable": true
   },
   {
-    "name": "Rod of Ages (Crystal Scar)",
+    "name": "Rod of Ages (Quick Charge)",
     "description": "<stats>+300 Health<br><mana>+300 Mana</mana><br>+60 Ability Power</stats><br><br><passive>Passive:</passive> Grants +20 Health, +10 Mana, and +4 Ability Power per stack (max +200 Health, +100 Mana, and +40 Ability Power). Grants 1 stack per 40 seconds (max 10 stacks).<br><unique>UNIQUE Passive - Eternity:</unique> 15% of damage taken from champions is gained as Mana. Spending Mana restores 20% of the cost as Health, up to 25 per spell cast.",
     "plaintext": "Greatly increases Health, Mana, and Ability Power",
     "from": [
@@ -2507,7 +2504,7 @@
     },
     "depth": 3,
     "id": "3029",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3029.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3029.png",
     "price": {
       "base": 750,
       "total": 2700,
@@ -2549,7 +2546,7 @@
     },
     "depth": 3,
     "id": "3030",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3030.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3030.png",
     "price": {
       "base": 850,
       "total": 3000,
@@ -2580,7 +2577,7 @@
     },
     "depth": 2,
     "id": "3031",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3031.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3031.png",
     "price": {
       "base": 625,
       "total": 3600,
@@ -2610,7 +2607,7 @@
     },
     "depth": 3,
     "id": "3033",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3033.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3033.png",
     "price": {
       "base": 600,
       "total": 2700,
@@ -2642,7 +2639,7 @@
     },
     "depth": 2,
     "id": "3034",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3034.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3034.png",
     "price": {
       "base": 650,
       "total": 1000,
@@ -2674,7 +2671,7 @@
     },
     "depth": 2,
     "id": "3035",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3035.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3035.png",
     "price": {
       "base": 425,
       "total": 1300,
@@ -2708,7 +2705,7 @@
     },
     "depth": 3,
     "id": "3036",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3036.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3036.png",
     "price": {
       "base": 400,
       "total": 2700,
@@ -2744,7 +2741,7 @@
     },
     "depth": 4,
     "id": "3040",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3040.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3040.png",
     "price": {
       "base": 3100,
       "total": 3100,
@@ -2780,7 +2777,7 @@
     },
     "depth": 2,
     "id": "3041",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3041.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3041.png",
     "price": {
       "base": 1050,
       "total": 1400,
@@ -2810,7 +2807,7 @@
     },
     "depth": 4,
     "id": "3042",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3042.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3042.png",
     "price": {
       "base": 2400,
       "total": 2400,
@@ -2840,7 +2837,7 @@
     },
     "depth": 4,
     "id": "3043",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3043.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3043.png",
     "price": {
       "base": 2400,
       "total": 2400,
@@ -2877,7 +2874,7 @@
     },
     "depth": 2,
     "id": "3044",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3044.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3044.png",
     "price": {
       "base": 500,
       "total": 1250,
@@ -2913,7 +2910,7 @@
     },
     "depth": 3,
     "id": "3046",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3046.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3046.png",
     "price": {
       "base": 650,
       "total": 2550,
@@ -2947,7 +2944,7 @@
     },
     "depth": 2,
     "id": "3047",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3047.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3047.png",
     "price": {
       "base": 500,
       "total": 1100,
@@ -2983,7 +2980,7 @@
     },
     "depth": 4,
     "id": "3048",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3048.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3048.png",
     "price": {
       "base": 3100,
       "total": 3100,
@@ -3026,7 +3023,7 @@
     },
     "depth": 3,
     "id": "3050",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3050.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3050.png",
     "price": {
       "base": 480,
       "total": 2350,
@@ -3045,6 +3042,7 @@
     "into": [
       "3022",
       "3053",
+      "3104",
       "3748"
     ],
     "tags": [
@@ -3063,7 +3061,7 @@
     },
     "depth": 2,
     "id": "3052",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3052.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3052.png",
     "price": {
       "base": 450,
       "total": 1200,
@@ -3099,7 +3097,7 @@
     },
     "depth": 3,
     "id": "3053",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3053.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3053.png",
     "price": {
       "base": 1150,
       "total": 2700,
@@ -3137,7 +3135,7 @@
     },
     "depth": 4,
     "id": "3056",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3056.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3056.png",
     "price": {
       "base": 650,
       "total": 2650,
@@ -3170,7 +3168,7 @@
     },
     "depth": 2,
     "id": "3057",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3057.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3057.png",
     "price": {
       "base": 700,
       "total": 1050,
@@ -3208,7 +3206,7 @@
     },
     "depth": 4,
     "id": "3060",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3060.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3060.png",
     "price": {
       "base": 600,
       "total": 3000,
@@ -3243,7 +3241,7 @@
     },
     "depth": 3,
     "id": "3065",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3065.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3065.png",
     "price": {
       "base": 800,
       "total": 2800,
@@ -3279,7 +3277,7 @@
     },
     "depth": 2,
     "id": "3067",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3067.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3067.png",
     "price": {
       "base": 400,
       "total": 800,
@@ -3311,7 +3309,7 @@
     },
     "depth": 3,
     "id": "3068",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3068.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3068.png",
     "price": {
       "base": 1000,
       "total": 2900,
@@ -3322,25 +3320,28 @@
   {
     "name": "Talisman of Ascension",
     "group": "GoldBase",
-    "description": "<stats>+100% Base Health Regen <br><mana>+100% Base Mana Regen <br></mana>+10% Cooldown Reduction</stats><br><br><unique>UNIQUE Passive - Favor:</unique> Being near a minion's death without dealing the killing blow grants 6 Gold and 10 Health.<br><active>UNIQUE Active:</active> Grants nearby allies +40% Movement Speed for 3 seconds (60 second cooldown).<br><br><groupLimit>Limited to 1 Gold Income Item.</groupLimit><br><br><rules><font color='#447777'>''Praise the sun.'' - Historian Shurelya, 22 September, 25 CLE</font></rules>",
+    "description": "<stats>+45 Armor<br>+150% Base Health Regen <br><mana>+75% Base Mana Regen <br></mana>+10% Cooldown Reduction</stats><br><br><unique>UNIQUE Passive - Point Runner:</unique> Builds up to +20% Movement Speed over 2 seconds while near turrets, fallen turrets and Void Gates.<br><unique>UNIQUE Passive - Favor:</unique> Being near a minion's death without dealing the killing blow grants 6 Gold and 10 Health.<br><active>UNIQUE Active:</active> Grants nearby allies +40% Movement Speed for 3 seconds (60 second cooldown).<br><br><groupLimit>Limited to 1 Gold Income Item.</groupLimit><br><br><rules><font color='#447777'>''Praise the sun.'' - Historian Shurelya, 22 September, 25 CLE</font></rules>",
     "plaintext": "Increases Health / Mana Regeneration and Cooldown Reduction. Activate to speed up nearby allies.",
     "from": [
       "3096",
-      "3114"
+      "2053"
     ],
     "into": [],
     "tags": [
       "Active",
+      "Armor",
       "CooldownReduction",
       "GoldPer",
       "HealthRegen",
       "ManaRegen",
       "NonbootsMovement"
     ],
-    "stats": {},
+    "stats": {
+      "FlatArmorMod": 45
+    },
     "effect": {
       "Effect1Amount": "-0.1",
-      "Effect2Amount": "0",
+      "Effect2Amount": "2",
       "Effect3Amount": "6",
       "Effect4Amount": "10",
       "Effect5Amount": "0.4",
@@ -3348,13 +3349,13 @@
       "Effect7Amount": "60",
       "Effect8Amount": "20"
     },
-    "depth": 3,
+    "depth": 4,
     "id": "3069",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3069.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3069.png",
     "price": {
-      "base": 800,
-      "total": 2200,
-      "sell": 880
+      "base": 450,
+      "total": 2500,
+      "sell": 1000
     },
     "purchasable": true
   },
@@ -3388,7 +3389,7 @@
     },
     "depth": 2,
     "id": "3070",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3070.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3070.png",
     "price": {
       "base": 275,
       "total": 750,
@@ -3429,7 +3430,7 @@
     },
     "depth": 3,
     "id": "3071",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3071.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3071.png",
     "price": {
       "base": 750,
       "total": 3100,
@@ -3462,7 +3463,7 @@
     },
     "depth": 3,
     "id": "3072",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3072.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3072.png",
     "price": {
       "base": 1150,
       "total": 3700,
@@ -3471,7 +3472,7 @@
     "purchasable": true
   },
   {
-    "name": "Tear of the Goddess (Crystal Scar)",
+    "name": "Tear of the Goddess (Quick Charge)",
     "description": "<stats><mana>+250 Mana</mana></stats><br><br><mana><unique>UNIQUE Passive - Awe:</unique> Refunds 15% of Mana spent.<br><unique>UNIQUE Passive - Mana Charge:</unique> Grants 6 maximum Mana on spell cast or Mana expenditure (up to 2 times per 8 seconds).<br><br>Caps at +750 Mana.</mana>",
     "plaintext": "Increases maximum Mana as Mana is spent",
     "from": [
@@ -3500,7 +3501,7 @@
     },
     "depth": 2,
     "id": "3073",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3073.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3073.png",
     "price": {
       "base": 275,
       "total": 750,
@@ -3538,7 +3539,7 @@
     },
     "depth": 3,
     "id": "3074",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3074.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3074.png",
     "price": {
       "base": 525,
       "total": 3500,
@@ -3567,7 +3568,7 @@
     },
     "depth": 3,
     "id": "3075",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3075.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3075.png",
     "price": {
       "base": 1250,
       "total": 2350,
@@ -3605,7 +3606,7 @@
     },
     "depth": 2,
     "id": "3077",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3077.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3077.png",
     "price": {
       "base": 350,
       "total": 1200,
@@ -3648,7 +3649,7 @@
     },
     "depth": 3,
     "id": "3078",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3078.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3078.png",
     "price": {
       "base": 333,
       "total": 3733,
@@ -3681,7 +3682,7 @@
     },
     "depth": 2,
     "id": "3082",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3082.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3082.png",
     "price": {
       "base": 400,
       "total": 1000,
@@ -3717,7 +3718,7 @@
     },
     "depth": 3,
     "id": "3083",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3083.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3083.png",
     "price": {
       "base": 400,
       "total": 2850,
@@ -3747,7 +3748,7 @@
     },
     "depth": 3,
     "id": "3084",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3084.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3084.png",
     "price": {
       "base": 900,
       "total": 2550,
@@ -3785,7 +3786,7 @@
     },
     "depth": 3,
     "id": "3085",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3085.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3085.png",
     "price": {
       "base": 300,
       "total": 2600,
@@ -3821,7 +3822,7 @@
     },
     "depth": 2,
     "id": "3086",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3086.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3086.png",
     "price": {
       "base": 600,
       "total": 1300,
@@ -3861,7 +3862,7 @@
     },
     "depth": 3,
     "id": "3087",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3087.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3087.png",
     "price": {
       "base": 550,
       "total": 2600,
@@ -3890,7 +3891,7 @@
     },
     "depth": 2,
     "id": "3089",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3089.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3089.png",
     "price": {
       "base": 1265,
       "total": 3800,
@@ -3923,7 +3924,7 @@
     },
     "depth": 3,
     "id": "3090",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3090.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3090.png",
     "price": {
       "base": 1050,
       "total": 3500,
@@ -3957,7 +3958,7 @@
     },
     "depth": 3,
     "id": "3091",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3091.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3091.png",
     "price": {
       "base": 480,
       "total": 2500,
@@ -3998,7 +3999,7 @@
     },
     "depth": 3,
     "id": "3092",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3092.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3092.png",
     "price": {
       "base": 450,
       "total": 2200,
@@ -4035,7 +4036,7 @@
     },
     "depth": 3,
     "id": "3094",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3094.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3094.png",
     "price": {
       "base": 550,
       "total": 2600,
@@ -4046,12 +4047,11 @@
   {
     "name": "Nomad's Medallion",
     "group": "GoldBase",
-    "description": "<stats>+50% Base Health Regen <br><mana>+50% Base Mana Regen </mana></stats><br><br><unique>UNIQUE Passive - Favor:</unique> Being near a minion's death without dealing the killing blow grants 6 Gold and 10 Health.<br><br><groupLimit>Limited to 1 Gold Income Item.</groupLimit><br><br><rules><font color='#447777'>''The medallion shines with the glory of a thousand voices when exposed to the sun.'' - Historian Shurelya, 22 June, 24 CLE</font></rules>",
+    "description": "<stats>+25% Base Health Regen <br><mana>+75% Base Mana Regen </mana><br>+10% Cooldown Reduction</stats><br><br><unique>UNIQUE Passive - Favor:</unique> Being near a minion's death without dealing the killing blow grants 6 Gold and 10 Health.<br><br><groupLimit>Limited to 1 Gold Income Item.</groupLimit><br><br><rules><font color='#447777'>''The medallion shines with the glory of a thousand voices when exposed to the sun.'' - Historian Shurelya, 22 June, 24 CLE</font></rules>",
     "plaintext": "Grants gold when nearby enemy minions die, Health Regen and Mana Regen",
     "from": [
       "1004",
-      "3301",
-      "1006"
+      "3301"
     ],
     "into": [
       "2302",
@@ -4059,6 +4059,7 @@
     ],
     "tags": [
       "Active",
+      "CooldownReduction",
       "GoldPer",
       "HealthRegen",
       "ManaRegen"
@@ -4072,9 +4073,9 @@
     },
     "depth": 2,
     "id": "3096",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3096.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3096.png",
     "price": {
-      "base": 225,
+      "base": 375,
       "total": 850,
       "sell": 340
     },
@@ -4083,7 +4084,7 @@
   {
     "name": "Targon's Brace",
     "group": "GoldBase",
-    "description": "<stats>+175 Health<br>+50% Base Health Regen <br>+2 Gold per 10 seconds </stats><br><br><unique>UNIQUE Passive - Spoils of War:</unique> Melee basic attacks execute minions below 240 Health. Killing a minion heals the owner and the nearest allied champion for 40 Health and grants them kill Gold.<br><br>These effects require a nearby ally. Recharges every 30 seconds. Max 3 charges.<br><br><groupLimit>Limited to 1 Gold Income Item.</groupLimit>",
+    "description": "<stats>+175 Health<br>+50% Base Health Regen <br>+2 Gold per 10 seconds </stats><br><br><unique>UNIQUE Passive - Spoils of War:</unique> Melee basic attacks execute minions below 200 (+10 per level) Health. Killing a minion heals the owner and the nearest allied champion for 40 Health and grants them kill Gold.<br><br>These effects require a nearby ally. Recharges every 30 seconds. Max 3 charges.<br><br><groupLimit>Limited to 1 Gold Income Item.</groupLimit>",
     "plaintext": "Periodically kill enemy minions to heal and grant gold to a nearby ally",
     "from": [
       "3302",
@@ -4103,15 +4104,16 @@
       "FlatHPPoolMod": 175
     },
     "effect": {
-      "Effect1Amount": "240",
+      "Effect1Amount": "200",
       "Effect2Amount": "40",
       "Effect3Amount": "30",
       "Effect4Amount": "3",
-      "Effect5Amount": "2"
+      "Effect5Amount": "2",
+      "Effect6Amount": "10"
     },
     "depth": 2,
     "id": "3097",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3097.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3097.png",
     "price": {
       "base": 350,
       "total": 850,
@@ -4151,7 +4153,7 @@
     },
     "depth": 2,
     "id": "3098",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3098.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3098.png",
     "price": {
       "base": 375,
       "total": 850,
@@ -4187,7 +4189,7 @@
     },
     "depth": 3,
     "id": "3100",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3100.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3100.png",
     "price": {
       "base": 450,
       "total": 3200,
@@ -4220,7 +4222,7 @@
     },
     "depth": 2,
     "id": "3101",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3101.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3101.png",
     "price": {
       "base": 500,
       "total": 1100,
@@ -4253,7 +4255,7 @@
     },
     "depth": 3,
     "id": "3102",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3102.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3102.png",
     "price": {
       "base": 530,
       "total": 2450,
@@ -4263,33 +4265,37 @@
   },
   {
     "name": "Lord Van Damm's Pillager",
-    "description": "<stats>+65 Attack Damage<br>+30% Critical Strike Chance</stats><br><br><unique>UNIQUE Passive:</unique> Critical Strikes cause enemies to bleed for an additional 150% of bonus Attack Damage as magic damage over 3 seconds and reveal them for the duration.",
-    "plaintext": "Massively enhances critical strikes",
+    "description": "<stats>+300 Health<br>+50 Attack Damage<br>+10% Cooldown Reduction</stats><br><br><unique>UNIQUE Passive - Ashes to Ashes:</unique> Controlling the nearest Altar sets you aflame, dealing 25 (+1 per champion level) magic damage per second to nearby enemies (Deals 50% bonus damage to minions and monsters). Controlling the furthest Altar causes your basic attacks to burn targets for up to 114 true damage (based on champion level) over 3 seconds.",
+    "plaintext": "Reduces Armor of nearby enemies",
     "from": [
-      "3122",
-      "1037",
-      "1018"
+      "3133",
+      "3052"
     ],
     "into": [],
     "tags": [
-      "CriticalStrike",
-      "Damage"
+      "ArmorPenetration",
+      "Aura",
+      "CooldownReduction",
+      "Damage",
+      "Health",
+      "OnHit"
     ],
     "stats": {
-      "FlatPhysicalDamageMod": 65,
-      "FlatCritChanceMod": 0.3
+      "FlatHPPoolMod": 300,
+      "FlatPhysicalDamageMod": 50
     },
     "effect": {
-      "Effect1Amount": "1.5",
-      "Effect2Amount": "3"
+      "Effect1Amount": "25",
+      "Effect2Amount": "1",
+      "Effect3Amount": "0.5"
     },
     "depth": 3,
     "id": "3104",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3104.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3104.png",
     "price": {
-      "base": 725,
-      "total": 3600,
-      "sell": 2520
+      "base": 1000,
+      "total": 3300,
+      "sell": 2310
     },
     "purchasable": true
   },
@@ -4321,7 +4327,7 @@
     },
     "depth": 3,
     "id": "3105",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3105.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3105.png",
     "price": {
       "base": 400,
       "total": 1500,
@@ -4357,7 +4363,7 @@
     },
     "depth": 2,
     "id": "3108",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3108.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3108.png",
     "price": {
       "base": 465,
       "total": 900,
@@ -4390,7 +4396,7 @@
     },
     "depth": 3,
     "id": "3110",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3110.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3110.png",
     "price": {
       "base": 800,
       "total": 2800,
@@ -4422,7 +4428,7 @@
     },
     "depth": 2,
     "id": "3111",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3111.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3111.png",
     "price": {
       "base": 350,
       "total": 1100,
@@ -4447,7 +4453,7 @@
       "FlatMagicDamageMod": 30
     },
     "id": "3112",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3112.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3112.png",
     "price": {
       "base": 950,
       "total": 950,
@@ -4484,7 +4490,7 @@
     },
     "depth": 2,
     "id": "3113",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3113.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3113.png",
     "price": {
       "base": 415,
       "total": 850,
@@ -4494,14 +4500,13 @@
   },
   {
     "name": "Forbidden Idol",
-    "description": "<stats><mana>+50% Base Mana Regen </mana></stats><br><br><unique>UNIQUE Passive:</unique> +10% Cooldown Reduction",
+    "description": "<stats><mana>+50% Base Mana Regen </mana></stats><br><br><unique>UNIQUE Passive:</unique> +10% Cooldown Reduction<br><unique>UNIQUE Passive:</unique> +10% Heal and Shield Power",
     "plaintext": "Increases Mana Regeneration and Cooldown Reduction",
     "from": [
       "1004",
       "1004"
     ],
     "into": [
-      "3069",
       "3222",
       "3504"
     ],
@@ -4511,15 +4516,16 @@
     ],
     "stats": {},
     "effect": {
-      "Effect1Amount": "-0.1"
+      "Effect1Amount": "-0.1",
+      "Effect2Amount": "0.1"
     },
     "depth": 2,
     "id": "3114",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3114.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3114.png",
     "price": {
-      "base": 300,
-      "total": 550,
-      "sell": 385
+      "base": 600,
+      "total": 850,
+      "sell": 595
     },
     "purchasable": true
   },
@@ -4544,7 +4550,7 @@
     },
     "depth": 3,
     "id": "3115",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3115.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3115.png",
     "price": {
       "base": 1000,
       "total": 3000,
@@ -4581,7 +4587,7 @@
     },
     "depth": 3,
     "id": "3116",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3116.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3116.png",
     "price": {
       "base": 515,
       "total": 3200,
@@ -4619,7 +4625,7 @@
     },
     "depth": 2,
     "id": "3117",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3117.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3117.png",
     "price": {
       "base": 600,
       "total": 900,
@@ -4654,7 +4660,7 @@
     },
     "depth": 2,
     "id": "3122",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3122.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3122.png",
     "price": {
       "base": 450,
       "total": 1200,
@@ -4683,7 +4689,7 @@
     },
     "depth": 2,
     "id": "3123",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3123.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3123.png",
     "price": {
       "base": 450,
       "total": 800,
@@ -4723,7 +4729,7 @@
     },
     "depth": 3,
     "id": "3124",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3124.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3124.png",
     "price": {
       "base": 875,
       "total": 3600,
@@ -4746,6 +4752,7 @@
       "1408",
       "1412",
       "3071",
+      "3104",
       "3508",
       "3671",
       "3812"
@@ -4762,7 +4769,7 @@
     },
     "depth": 2,
     "id": "3133",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3133.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3133.png",
     "price": {
       "base": 400,
       "total": 1100,
@@ -4797,7 +4804,7 @@
     },
     "depth": 2,
     "id": "3134",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3134.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3134.png",
     "price": {
       "base": 400,
       "total": 1100,
@@ -4826,7 +4833,7 @@
     },
     "depth": 2,
     "id": "3135",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3135.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3135.png",
     "price": {
       "base": 1365,
       "total": 2650,
@@ -4860,7 +4867,7 @@
     },
     "depth": 2,
     "id": "3136",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3136.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3136.png",
     "price": {
       "base": 765,
       "total": 1600,
@@ -4895,7 +4902,7 @@
     },
     "depth": 3,
     "id": "3137",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3137.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3137.png",
     "price": {
       "base": 300,
       "total": 2700,
@@ -4932,7 +4939,7 @@
     },
     "depth": 3,
     "id": "3139",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3139.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3139.png",
     "price": {
       "base": 525,
       "total": 3600,
@@ -4963,7 +4970,7 @@
     },
     "depth": 2,
     "id": "3140",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3140.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3140.png",
     "price": {
       "base": 850,
       "total": 1300,
@@ -5000,7 +5007,7 @@
     },
     "depth": 3,
     "id": "3142",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3142.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3142.png",
     "price": {
       "base": 1000,
       "total": 3200,
@@ -5035,7 +5042,7 @@
     },
     "depth": 3,
     "id": "3143",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3143.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3143.png",
     "price": {
       "base": 900,
       "total": 2900,
@@ -5073,7 +5080,7 @@
     },
     "depth": 3,
     "id": "3144",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3144.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3144.png",
     "price": {
       "base": 250,
       "total": 1500,
@@ -5083,7 +5090,7 @@
   },
   {
     "name": "Hextech Revolver",
-    "description": "<stats>+40 Ability Power</stats><br><br><unique>UNIQUE Passive - Magic Bolt:</unique> Damaging an enemy champion with a basic attack shocks them for <levelScale>75 - 150</levelScale> bonus magic damage (40 second cooldown, shared with other <font color='#9999FF'><a href='itembolt'>Hextech</a></font> items).<br><br><rules>(Damage scales based on level. Hextech effects can trigger other item spell effects.)</rules>",
+    "description": "<stats>+40 Ability Power</stats><br><br><unique>UNIQUE Passive - Magic Bolt:</unique> Damaging an enemy champion with a basic attack shocks them for <levelScale>75 - 150</levelScale> bonus magic damage (40 second cooldown, shared with other <font color='#9999FF'><a href='itembolt'>Hextech</a></font> items).<br><br>Magic Bolt's cooldown is reduced by Active Item cooldown reduction.<br><br><rules>(Damage scales based on level. Hextech effects can trigger other item spell effects.)</rules>",
     "plaintext": "Increases Ability Power. Deal bonus magic damage on attack periodically.",
     "from": [
       "1052",
@@ -5109,7 +5116,7 @@
     },
     "depth": 2,
     "id": "3145",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3145.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3145.png",
     "price": {
       "base": 180,
       "total": 1050,
@@ -5145,7 +5152,7 @@
     },
     "depth": 4,
     "id": "3146",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3146.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3146.png",
     "price": {
       "base": 850,
       "total": 3400,
@@ -5183,7 +5190,7 @@
     },
     "depth": 3,
     "id": "3147",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3147.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3147.png",
     "price": {
       "base": 850,
       "total": 3250,
@@ -5219,7 +5226,7 @@
     },
     "depth": 3,
     "id": "3151",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3151.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3151.png",
     "price": {
       "base": 750,
       "total": 3200,
@@ -5258,7 +5265,7 @@
     },
     "depth": 3,
     "id": "3152",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3152.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3152.png",
     "price": {
       "base": 650,
       "total": 2500,
@@ -5293,7 +5300,7 @@
     },
     "depth": 4,
     "id": "3153",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3153.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3153.png",
     "price": {
       "base": 900,
       "total": 3400,
@@ -5332,7 +5339,7 @@
     },
     "depth": 2,
     "id": "3155",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3155.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3155.png",
     "price": {
       "base": 500,
       "total": 1300,
@@ -5373,7 +5380,7 @@
     },
     "depth": 3,
     "id": "3156",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3156.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3156.png",
     "price": {
       "base": 850,
       "total": 3250,
@@ -5407,7 +5414,7 @@
     },
     "depth": 3,
     "id": "3157",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3157.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3157.png",
     "price": {
       "base": 800,
       "total": 2900,
@@ -5440,7 +5447,7 @@
     },
     "depth": 2,
     "id": "3158",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3158.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3158.png",
     "price": {
       "base": 600,
       "total": 900,
@@ -5476,7 +5483,7 @@
     },
     "depth": 3,
     "id": "3165",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3165.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3165.png",
     "price": {
       "base": 665,
       "total": 2900,
@@ -5506,7 +5513,7 @@
     },
     "depth": 3,
     "id": "3170",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3170.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3170.png",
     "price": {
       "base": 580,
       "total": 2500,
@@ -5546,7 +5553,7 @@
     },
     "depth": 3,
     "id": "3174",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3174.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3174.png",
     "price": {
       "base": 450,
       "total": 2250,
@@ -5579,7 +5586,7 @@
     },
     "depth": 3,
     "id": "3181",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3181.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3181.png",
     "price": {
       "base": 625,
       "total": 2400,
@@ -5604,7 +5611,7 @@
       "PercentLifeStealMod": 0.1
     },
     "id": "3184",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3184.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3184.png",
     "price": {
       "base": 950,
       "total": 950,
@@ -5643,7 +5650,7 @@
     },
     "depth": 3,
     "id": "3185",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3185.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3185.png",
     "price": {
       "base": 350,
       "total": 2350,
@@ -5684,7 +5691,7 @@
     },
     "depth": 3,
     "id": "3187",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3187.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3187.png",
     "price": {
       "base": 350,
       "total": 2150,
@@ -5694,7 +5701,7 @@
   },
   {
     "name": "Locket of the Iron Solari",
-    "description": "<stats>+400 Health<br>+100% Base Health Regen <br>+20 Magic Resist<br>+10% Cooldown Reduction</stats><br><br><active>UNIQUE Active:</active> Grants a shield to nearby allies for 2 seconds that absorbs up to 75 (+15 per level) damage (60 second cooldown).<br><aura>UNIQUE Aura - Legion:</aura> Grants nearby allies +15 Magic Resist.",
+    "description": "<stats>+400 Health<br>+100% Base Health Regen <br>+20 Magic Resist<br>+10% Cooldown Reduction</stats><br><br><active>UNIQUE Active:</active> Grants a shield to nearby allies for 2 seconds that absorbs up to 75 (+15 per level) damage (60 second cooldown). This shielding is halved for units recently shielded this way.<br><aura>UNIQUE Aura - Legion:</aura> Grants nearby allies +15 Magic Resist.",
     "plaintext": "Activate to shield nearby allies from damage",
     "from": [
       "3105",
@@ -5723,7 +5730,7 @@
     },
     "depth": 4,
     "id": "3190",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3190.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3190.png",
     "price": {
       "base": 200,
       "total": 2500,
@@ -5759,7 +5766,7 @@
     },
     "depth": 2,
     "id": "3191",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3191.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3191.png",
     "price": {
       "base": 165,
       "total": 1200,
@@ -5789,11 +5796,11 @@
     },
     "depth": 2,
     "id": "3196",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3196.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3196.png",
     "price": {
-      "base": 1000,
-      "total": 1000,
-      "sell": 700
+      "base": 1250,
+      "total": 1250,
+      "sell": 875
     },
     "purchasable": true
   },
@@ -5819,11 +5826,11 @@
     },
     "depth": 3,
     "id": "3197",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3197.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3197.png",
     "price": {
       "base": 1000,
-      "total": 2000,
-      "sell": 1400
+      "total": 2250,
+      "sell": 1575
     },
     "purchasable": true
   },
@@ -5847,9 +5854,9 @@
     },
     "depth": 4,
     "id": "3198",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3198.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3198.png",
     "price": {
-      "base": 1000,
+      "base": 750,
       "total": 3000,
       "sell": 2100
     },
@@ -5872,7 +5879,7 @@
       "Effect2Amount": "10"
     },
     "id": "3200",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3200.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3200.png",
     "price": {
       "base": 0,
       "total": 0,
@@ -5907,7 +5914,7 @@
     },
     "depth": 2,
     "id": "3211",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3211.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3211.png",
     "price": {
       "base": 350,
       "total": 1200,
@@ -5917,7 +5924,7 @@
   },
   {
     "name": "Mikael's Crucible",
-    "description": "<stats>+35 Magic Resist<br>+10% Cooldown Reduction<br><mana>+150% Base Mana Regen </mana></stats><br><br><unique>UNIQUE Passive:</unique> Increases Base Health Regeneration by 100% if current Health % is lower than current Mana %. <mana>Increases Base Mana Regeneration by 100% if current Mana % is lower than current Health %.</mana><br><active>UNIQUE Active:</active> Removes all stuns, roots, taunts, fears, silences, and slows on an allied champion and heals that champion for 150 (+10% of maximum Health) (180 second cooldown).",
+    "description": "<stats>+35 Magic Resist<br>+10% Cooldown Reduction<br><mana>+150% Base Mana Regen </mana></stats><br><br><unique>UNIQUE Passive:</unique> +15% Heal and Shield Power<br><unique>UNIQUE Passive:</unique> Increases Base Health Regeneration by 100% if current Health % is lower than current Mana %. <mana>Increases Base Mana Regeneration by 100% if current Mana % is lower than current Health %.</mana><br><active>UNIQUE Active:</active> Removes all stuns, roots, taunts, fears, silences, and slows on an allied champion and heals that champion for 150 (+10% of maximum Health) (180 second cooldown).",
     "plaintext": "Activate to heal and remove all disabling effects from an allied champion",
     "from": [
       "3028",
@@ -5946,11 +5953,11 @@
     },
     "depth": 3,
     "id": "3222",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3222.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3222.png",
     "price": {
-      "base": 850,
-      "total": 2300,
-      "sell": 1610
+      "base": 650,
+      "total": 2400,
+      "sell": 1680
     },
     "purchasable": true
   },
@@ -5982,7 +5989,7 @@
     },
     "depth": 3,
     "id": "3285",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3285.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3285.png",
     "price": {
       "base": 1100,
       "total": 3200,
@@ -5993,12 +6000,13 @@
   {
     "name": "Ancient Coin",
     "group": "GoldBase",
-    "description": "<stats><mana>+25% Base Mana Regen </mana></stats><br><br><unique>UNIQUE Passive - Favor:</unique> Being near a minion's death without dealing the killing blow grants 4 Gold and 5 Health.<br><br><groupLimit>Limited to 1 Gold Income Item.</groupLimit><br><br><i><font color='#447777'>''Gold dust rises from the desert and clings to the coin.'' - Historian Shurelya, 11 November, 23 CLE</font></i>",
+    "description": "<stats><mana>+25% Base Mana Regen </mana><br>+5% Cooldown Reduction</stats><br><br><unique>UNIQUE Passive - Favor:</unique> Being near a minion's death without dealing the killing blow grants 4 Gold and 5 Health.<br><br><groupLimit>Limited to 1 Gold Income Item.</groupLimit><br><br><i><font color='#447777'>''Gold dust rises from the desert and clings to the coin.'' - Historian Shurelya, 11 November, 23 CLE</font></i>",
     "plaintext": "Grants gold when nearby minions die that you didn't kill",
     "into": [
       "3096"
     ],
     "tags": [
+      "CooldownReduction",
       "GoldPer",
       "Lane",
       "ManaRegen"
@@ -6009,7 +6017,7 @@
       "Effect2Amount": "5"
     },
     "id": "3301",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3301.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3301.png",
     "price": {
       "base": 350,
       "total": 350,
@@ -6020,7 +6028,7 @@
   {
     "name": "Relic Shield",
     "group": "GoldBase",
-    "description": "<stats>+75 Health<br>+2 Gold per 10 seconds </stats><br><br><unique>UNIQUE Passive - Spoils of War:</unique> Melee basic attacks execute minions below 200 Health. Killing a minion heals the owner and the nearest allied champion for 20 Health and grants them kill Gold.<br><br>These effects require a nearby ally. Recharges every 40 seconds. Max 2 charges. <br><br><groupLimit>Limited to 1 Gold Income Item.</groupLimit>",
+    "description": "<stats>+75 Health<br>+2 Gold per 10 seconds </stats><br><br><unique>UNIQUE Passive - Spoils of War:</unique> Melee basic attacks execute minions below 195 (+5 per level) Health. Killing a minion heals the owner and the nearest allied champion for 20 Health and grants them kill Gold.<br><br>These effects require a nearby ally. Recharges every 40 seconds. Max 2 charges. <br><br><groupLimit>Limited to 1 Gold Income Item.</groupLimit>",
     "plaintext": "Kill minions periodically to heal and grant gold to a nearby ally",
     "into": [
       "3097"
@@ -6035,12 +6043,13 @@
       "FlatHPPoolMod": 75
     },
     "effect": {
-      "Effect1Amount": "200",
+      "Effect1Amount": "195",
       "Effect2Amount": "20",
-      "Effect3Amount": "2"
+      "Effect3Amount": "2",
+      "Effect4Amount": "5"
     },
     "id": "3302",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3302.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3302.png",
     "price": {
       "base": 350,
       "total": 350,
@@ -6074,7 +6083,7 @@
       "Effect6Amount": "2"
     },
     "id": "3303",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3303.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3303.png",
     "price": {
       "base": 350,
       "total": 350,
@@ -6107,7 +6116,7 @@
       "Effect8Amount": "120"
     },
     "id": "3340",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3340.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3340.png",
     "price": {
       "base": 0,
       "total": 0,
@@ -6139,7 +6148,7 @@
       "Effect8Amount": "120"
     },
     "id": "3341",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3341.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3341.png",
     "price": {
       "base": 0,
       "total": 0,
@@ -6161,7 +6170,7 @@
     ],
     "stats": {},
     "id": "3345",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3345.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3345.png",
     "price": {
       "base": 0,
       "total": 0,
@@ -6192,7 +6201,7 @@
       "Effect6Amount": "90"
     },
     "id": "3348",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3348.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3348.png",
     "price": {
       "base": 0,
       "total": 0,
@@ -6224,7 +6233,7 @@
       "Effect8Amount": "120"
     },
     "id": "3361",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3361.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3361.png",
     "price": {
       "base": 250,
       "total": 250,
@@ -6256,7 +6265,7 @@
       "Effect8Amount": "120"
     },
     "id": "3362",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3362.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3362.png",
     "price": {
       "base": 250,
       "total": 250,
@@ -6287,7 +6296,7 @@
       "Effect8Amount": "120"
     },
     "id": "3363",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3363.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3363.png",
     "price": {
       "base": 0,
       "total": 0,
@@ -6318,7 +6327,7 @@
       "Effect8Amount": "120"
     },
     "id": "3364",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3364.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3364.png",
     "price": {
       "base": 0,
       "total": 0,
@@ -6329,7 +6338,7 @@
   {
     "name": "Face of the Mountain",
     "group": "GoldBase",
-    "description": "<stats>+450 Health<br>+100% Base Health Regen <br>+10% Cooldown Reduction<br>+2 Gold per 10 seconds </stats><br><br><unique>UNIQUE Passive - Spoils of War:</unique> Melee basic attacks execute minions below 400 Health. Killing a minion heals the owner and the nearest allied champion for 50 Health and grants them kill Gold. These effects require a nearby ally. Recharges every 30 seconds. Max 4 charges.<br><unique>UNIQUE Active:</unique> Grant a shield to an ally equal to 10% of your maximum Health for 4 seconds. After 4 seconds, the shield explodes to slow nearby enemies by 40% for 2 seconds (60 second cooldown).<br><br><groupLimit>Limited to 1 Gold Income Item.</groupLimit>",
+    "description": "<stats>+450 Health<br>+100% Base Health Regen <br>+10% Cooldown Reduction<br>+2 Gold per 10 seconds </stats><br><br><unique>UNIQUE Passive - Spoils of War:</unique> Melee basic attacks execute minions below 320 (+20 per level) Health. Killing a minion heals the owner and the nearest allied champion for 50 Health and grants them kill Gold. These effects require a nearby ally. Recharges every 30 seconds. Max 4 charges.<br><unique>UNIQUE Active:</unique> Grant a shield to an ally equal to 10% of your maximum Health for 4 seconds. After 4 seconds, the shield explodes to slow nearby enemies by 40% for 2 seconds (60 second cooldown).<br><br><groupLimit>Limited to 1 Gold Income Item.</groupLimit>",
     "plaintext": "Shield an ally from damage based on your Health",
     "from": [
       "3097",
@@ -6347,7 +6356,7 @@
       "FlatHPPoolMod": 450
     },
     "effect": {
-      "Effect1Amount": "400",
+      "Effect1Amount": "320",
       "Effect2Amount": "50",
       "Effect3Amount": "0.1",
       "Effect4Amount": "4",
@@ -6358,7 +6367,7 @@
     },
     "depth": 3,
     "id": "3401",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3401.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3401.png",
     "price": {
       "base": 550,
       "total": 2200,
@@ -6379,7 +6388,7 @@
     ],
     "stats": {},
     "id": "3460",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3460.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3460.png",
     "price": {
       "base": 0,
       "total": 0,
@@ -6400,7 +6409,7 @@
     ],
     "stats": {},
     "id": "3461",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3461.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3461.png",
     "price": {
       "base": 0,
       "total": 0,
@@ -6429,7 +6438,7 @@
       "Effect5Amount": "550"
     },
     "id": "3462",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3462.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3462.png",
     "price": {
       "base": 0,
       "total": 0,
@@ -6439,7 +6448,7 @@
   },
   {
     "name": "Ardent Censer",
-    "description": "<stats>+40 Ability Power<br>+10% Cooldown Reduction<br><mana>+100% Base Mana Regen </mana></stats><br><br><unique>UNIQUE Passive:</unique> +8% Movement Speed<br><unique>UNIQUE Passive:</unique> Your heals and shields on another allied champion grant them 15% Attack Speed and 30 magic damage on-hit for 6 seconds.<br><br><rules>(This does not include regeneration effects or effects on yourself.)</rules>",
+    "description": "<stats>+60 Ability Power<br>+10% Cooldown Reduction<br><mana>+50% Base Mana Regen </mana></stats><br><br><unique>UNIQUE Passive:</unique> +15% Heal and Shield Power<br><unique>UNIQUE Passive:</unique> +8% Movement Speed<br><unique>UNIQUE Passive:</unique> Your heals and shields on another allied champion grant them 15% Attack Speed and 30 magic damage on-hit for 6 seconds.<br><br><rules>(This does not include regeneration effects or effects on yourself.)</rules>",
     "plaintext": "Shield and heal effects on other units grant them Attack Speed and bonus damage briefly",
     "from": [
       "3114",
@@ -6453,27 +6462,28 @@
       "SpellDamage"
     ],
     "stats": {
-      "FlatMagicDamageMod": 40
+      "FlatMagicDamageMod": 60
     },
     "effect": {
       "Effect1Amount": "0.08",
       "Effect2Amount": "0.15",
       "Effect3Amount": "6",
-      "Effect4Amount": "30"
+      "Effect4Amount": "30",
+      "Effect5Amount": "0.15"
     },
     "depth": 3,
     "id": "3504",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3504.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3504.png",
     "price": {
-      "base": 800,
-      "total": 2200,
-      "sell": 1540
+      "base": 700,
+      "total": 2400,
+      "sell": 1680
     },
     "purchasable": true
   },
   {
     "name": "Essence Reaver",
-    "description": "<stats>+70 Attack Damage<br>+20% Critical Strike Chance</stats><br><br><unique>UNIQUE Passive:</unique> +10% Cooldown Reduction.<br><unique>UNIQUE Passive:</unique> Gain increasingly more Cooldown Reduction from Critical Strike Chance provided by other sources (maximum +20% additional Cooldown Reduction at 30% Critical Strike Chance).<br><unique>UNIQUE Passive:</unique> Critical strikes restore 3% of your maximum Mana pool.",
+    "description": "<stats>+70 Attack Damage<br>+20% Critical Strike Chance</stats><br><br><unique>UNIQUE Passive:</unique> +10% Cooldown Reduction<br><unique>UNIQUE Passive:</unique> Gain increasingly more Cooldown Reduction from Critical Strike Chance provided by other sources (maximum +20% additional Cooldown Reduction at 30% Critical Strike Chance).<br><unique>UNIQUE Passive:</unique> Critical strikes restore 3% of your maximum Mana pool.",
     "plaintext": "Critical Strike provides Cooldown Reduction and Mana",
     "from": [
       "1038",
@@ -6501,7 +6511,7 @@
     },
     "depth": 3,
     "id": "3508",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3508.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3508.png",
     "price": {
       "base": 400,
       "total": 3600,
@@ -6541,7 +6551,7 @@
     },
     "depth": 4,
     "id": "3512",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3512.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3512.png",
     "price": {
       "base": 780,
       "total": 2700,
@@ -6561,13 +6571,393 @@
     ],
     "stats": {},
     "id": "3599",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3599.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3599.png",
     "price": {
       "base": 0,
       "total": 0,
       "sell": 0
     },
     "purchasable": true
+  },
+  {
+    "name": "Siege Teleport",
+    "description": "<unique>Active:</unique> Use this trinket to teleport to one of your team's port pads. Can only be used from the summoning platform.",
+    "plaintext": "",
+    "inStore": false,
+    "into": [],
+    "tags": [],
+    "stats": {},
+    "id": "3630",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3630.png",
+    "price": {
+      "base": 10,
+      "total": 10,
+      "sell": 7
+    },
+    "purchasable": false
+  },
+  {
+    "name": "Siege Ballista",
+    "group": "SiegeSniperCannonGroup",
+    "description": "<br><font color='#FF9900'>Deploys a ballista that shoots the closest turret.</font><br><br>Places a long range ballista if within 2200 range of an enemy turret. After an 5 second delay, it will begin firing at the nearest enemy turret, dealing heavy damage. If the targeted turret expires, the ballista will as well.",
+    "plaintext": "Place a long range anti-turret ballista",
+    "consumed": true,
+    "consumeOnFull": true,
+    "into": [],
+    "tags": [],
+    "stats": {},
+    "effect": {
+      "Effect1Amount": "5",
+      "Effect2Amount": "5",
+      "Effect3Amount": "20",
+      "Effect4Amount": "3",
+      "Effect5Amount": "0",
+      "Effect6Amount": "2200",
+      "Effect7Amount": "10",
+      "Effect8Amount": "0"
+    },
+    "id": "3631",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3631.png",
+    "price": {
+      "base": 0,
+      "total": 0,
+      "sell": 0
+    },
+    "purchasable": true
+  },
+  {
+    "name": "",
+    "description": "",
+    "plaintext": "",
+    "inStore": false,
+    "into": [],
+    "tags": [],
+    "stats": {},
+    "effect": {
+      "Effect1Amount": "15",
+      "Effect2Amount": "1",
+      "Effect3Amount": "310",
+      "Effect4Amount": "5000",
+      "Effect5Amount": "20",
+      "Effect6Amount": "0",
+      "Effect7Amount": "3",
+      "Effect8Amount": "45"
+    },
+    "id": "3632",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3632.png",
+    "price": {
+      "base": 0,
+      "total": 0,
+      "sell": 0
+    },
+    "purchasable": false
+  },
+  {
+    "name": "Siege Teleport",
+    "description": "<unique>Active:</unique> Use this trinket to teleport to one of your team's port pads. Can only be used from the summoning platform.",
+    "plaintext": "",
+    "inStore": false,
+    "into": [],
+    "tags": [],
+    "stats": {},
+    "id": "3633",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3633.png",
+    "price": {
+      "base": 10,
+      "total": 10,
+      "sell": 7
+    },
+    "purchasable": false
+  },
+  {
+    "name": "Tower: Beam of Ruination",
+    "group": "SiegeLaserAffixGroup",
+    "description": "<br><font color='#FF9900'>Attach, then recast to fire a damaging beam from a turret to your cursor.</font><br><br><font color='#FF9900'>First Cast:</font> Attach a Slayer Beam to the target turret that can be fired 3 times.<br></br><font color='#FF9900'>Next Three Casts:</font> Fires the attached beam towards your cursor, dealing 30/level + 30% of the hit target's maximum health (20% damage to minions) in magic damage to all targets in a line.<br></br><br></br>Beam will last 15 seconds, or until it has been fired 3 times.",
+    "plaintext": "Attaches a three shot beam to a turret which can then be aimed and fired",
+    "consumed": true,
+    "consumeOnFull": true,
+    "into": [],
+    "tags": [],
+    "stats": {},
+    "effect": {
+      "Effect1Amount": "3",
+      "Effect2Amount": "1.5",
+      "Effect3Amount": "3000",
+      "Effect4Amount": "0",
+      "Effect5Amount": "30",
+      "Effect6Amount": "0.2",
+      "Effect7Amount": "15",
+      "Effect8Amount": "0.3"
+    },
+    "id": "3634",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3634.png",
+    "price": {
+      "base": 0,
+      "total": 0,
+      "sell": 0
+    },
+    "purchasable": true
+  },
+  {
+    "name": "Port Pad",
+    "group": "SiegeTeleportPadGroup",
+    "description": "<br><font color='#FF9900'>Deploy an additional teleport target.</font><br><br>Places a Port Pad at target location. After a 4 second delay, it activates, allowing you or your allies to teleport to it from base.",
+    "plaintext": "Creates another point for your team to Teleport to",
+    "consumed": true,
+    "consumeOnFull": true,
+    "into": [],
+    "tags": [],
+    "stats": {},
+    "effect": {
+      "Effect1Amount": "4",
+      "Effect2Amount": "1000",
+      "Effect3Amount": "3",
+      "Effect4Amount": "10"
+    },
+    "id": "3635",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3635.png",
+    "price": {
+      "base": 0,
+      "total": 0,
+      "sell": 0
+    },
+    "purchasable": true
+  },
+  {
+    "name": "Tower: Storm Bulwark",
+    "group": "SiegeEmergencyShieldGroup",
+    "description": "<br><font color='#FF9900'>Makes a turret go invulnerable, then rain fire.</font><br><br>Makes the target turret invulnerable for 6 seconds. Two seconds before expiry, it unleashes a missile volley, dealing 650 true damage over the remaining time to all nearby enemies.<br><br>Cannot be used on the same turret more than once in 15 seconds",
+    "plaintext": "Make a turret go invulnerable while charging a powerful barrage",
+    "consumed": true,
+    "consumeOnFull": true,
+    "into": [],
+    "tags": [],
+    "stats": {
+      "FlatCritChanceMod": 3
+    },
+    "effect": {
+      "Effect1Amount": "6",
+      "Effect2Amount": "15",
+      "Effect3Amount": "650",
+      "Effect4Amount": "825",
+      "Effect5Amount": "1.2"
+    },
+    "id": "3636",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3636.png",
+    "price": {
+      "base": 0,
+      "total": 0,
+      "sell": 0
+    },
+    "purchasable": true
+  },
+  {
+    "name": "Nexus Siege: Siege Weapon Slot",
+    "description": "In Nexus Siege, Summoner Spells are replaced with Siege Weapon Slots. Spend Crystal Shards to buy single-use Siege Weapons from the item shop, then use your Summoner Spell keys to activate them!",
+    "plaintext": "",
+    "inStore": false,
+    "into": [],
+    "tags": [],
+    "stats": {},
+    "id": "3637",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3637.png",
+    "price": {
+      "base": 10,
+      "total": 10,
+      "sell": 7
+    },
+    "purchasable": false
+  },
+  {
+    "name": "Flash Zone",
+    "group": "SiegeFlashZoneGroup",
+    "description": "<br><font color='#FF9900'>Allows team to cast Flash repeatedly in a limited zone.</font><br><br>Creates a magic zone for your team for 5 seconds. While in this zone, you and your allies have your summoner spells replaced by an instant cast blink that moves you to any location in the zone (1 second cooldown)",
+    "plaintext": "Allows you and allies to repeatedly flash while in a zone",
+    "consumed": true,
+    "consumeOnFull": true,
+    "into": [],
+    "tags": [],
+    "stats": {},
+    "effect": {
+      "Effect1Amount": "1",
+      "Effect2Amount": "5"
+    },
+    "id": "3640",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3640.png",
+    "price": {
+      "base": 0,
+      "total": 0,
+      "sell": 0
+    },
+    "purchasable": true
+  },
+  {
+    "name": "Vanguard Banner",
+    "group": "SiegePortableBarracksGroup",
+    "description": "<br><font color='#FF9900'>Place a banner that buffs minions.</font><br><br>Place a Vanguard Banner at target location. After an 2 second delay, any nearby minions will be granted a buff, increasing their damage by 50%, and granting them 50 Armor and 100 Magic Resistance while within range.",
+    "plaintext": "Strengthens nearby minions",
+    "consumed": true,
+    "into": [],
+    "tags": [],
+    "stats": {},
+    "effect": {
+      "Effect1Amount": "0",
+      "Effect2Amount": "0.5",
+      "Effect3Amount": "50",
+      "Effect4Amount": "100",
+      "Effect5Amount": "5",
+      "Effect6Amount": "0.3",
+      "Effect7Amount": "2",
+      "Effect8Amount": "10"
+    },
+    "id": "3641",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3641.png",
+    "price": {
+      "base": 0,
+      "total": 0,
+      "sell": 0
+    },
+    "purchasable": true
+  },
+  {
+    "name": "Siege Refund",
+    "group": "SiegeRefundGroup",
+    "description": "Refunds all purchased Siege Weapons for their full price.",
+    "plaintext": "Refunds all current Siege Weapons",
+    "consumed": true,
+    "consumeOnFull": true,
+    "into": [],
+    "tags": [],
+    "stats": {},
+    "effect": {
+      "Effect1Amount": "1"
+    },
+    "id": "3642",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3642.png",
+    "price": {
+      "base": 0,
+      "total": 0,
+      "sell": 0
+    },
+    "purchasable": true
+  },
+  {
+    "name": "Entropy Field",
+    "group": "SiegeTimefieldGroup",
+    "description": "<br><font color='#FF9900'>Stun minions and slow champions in an area.</font><br><br>Places an Entropy Field at target location for 5 seconds.  Enemy minions and Siege Ballistas trapped in the field are unable to move or attack while in the field.  Enemy champions in the field have their Movement Speed reduced by 25%.",
+    "plaintext": "Places a field that stuns enemy minions and slows champions",
+    "consumed": true,
+    "consumeOnFull": true,
+    "into": [],
+    "tags": [],
+    "stats": {},
+    "effect": {
+      "Effect1Amount": "5",
+      "Effect2Amount": "600",
+      "Effect3Amount": "25"
+    },
+    "id": "3643",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3643.png",
+    "price": {
+      "base": 0,
+      "total": 0,
+      "sell": 0
+    },
+    "purchasable": true
+  },
+  {
+    "name": "Seer Stone (Trinket)",
+    "group": "RelicBase",
+    "description": "<groupLimit>Limited to 1 Trinket.</groupLimit><br><br><active>Active:</active> Reveals a small area within <font color='#FFFFF'>1400</font> range for 3 seconds. Enemy champions will be revealed for 5 seconds (60 second cooldown)",
+    "plaintext": "Briefly reveals a nearby targeted area",
+    "inStore": false,
+    "into": [],
+    "tags": [
+      "Active",
+      "Trinket",
+      "Vision"
+    ],
+    "stats": {},
+    "effect": {
+      "Effect1Amount": "1400",
+      "Effect2Amount": "60",
+      "Effect3Amount": "3",
+      "Effect4Amount": "5",
+      "Effect5Amount": "550"
+    },
+    "id": "3645",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3645.png",
+    "price": {
+      "base": 0,
+      "total": 0,
+      "sell": 0
+    },
+    "purchasable": false
+  },
+  {
+    "name": "Shield Totem",
+    "group": "SiegeShieldGeneratorGroup",
+    "description": "<br><font color='#FF9900'>Place a totem that shields nearby deployables.</font><br><br>Places a Shield Totem at target location. After a 2 second delay, the totem will activate, granting a 2 (+1 per additional Shield Totem) strength shield to all nearby deployables.",
+    "plaintext": "Grants bonus health to nearby Siege Weapons",
+    "consumed": true,
+    "into": [],
+    "tags": [],
+    "stats": {},
+    "effect": {
+      "Effect1Amount": "2",
+      "Effect2Amount": "3",
+      "Effect3Amount": "2",
+      "Effect4Amount": "1",
+      "Effect5Amount": "1000",
+      "Effect6Amount": "0.25",
+      "Effect7Amount": "10",
+      "Effect8Amount": "1"
+    },
+    "id": "3647",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3647.png",
+    "price": {
+      "base": 0,
+      "total": 0,
+      "sell": 0
+    },
+    "purchasable": true
+  },
+  {
+    "name": "Siege Teleport (Inactive)",
+    "description": "",
+    "plaintext": "",
+    "inStore": false,
+    "into": [],
+    "tags": [],
+    "stats": {},
+    "id": "3648",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3648.png",
+    "price": {
+      "base": 0,
+      "total": 0,
+      "sell": 0
+    },
+    "purchasable": false
+  },
+  {
+    "name": "Siege Sight Warder",
+    "description": "<groupLimit>Limited to 1 Trinket.</groupLimit><br><br><active>Active:</active> Places a <font color='#FFFFFF'>Stealth Ward</font> that lasts <font color='#FFFFFF'>30</font> seconds (30 second cooldown).",
+    "plaintext": "",
+    "inStore": false,
+    "into": [],
+    "tags": [],
+    "stats": {},
+    "effect": {
+      "Effect1Amount": "30"
+    },
+    "id": "3649",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3649.png",
+    "price": {
+      "base": 0,
+      "total": 0,
+      "sell": 0
+    },
+    "purchasable": false
   },
   {
     "name": "Enchantment: Warrior",
@@ -6584,7 +6974,7 @@
     },
     "depth": 3,
     "id": "3671",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3671.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3671.png",
     "price": {
       "base": 525,
       "total": 1625,
@@ -6607,7 +6997,7 @@
     },
     "depth": 3,
     "id": "3672",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3672.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3672.png",
     "price": {
       "base": 525,
       "total": 1625,
@@ -6632,7 +7022,7 @@
     },
     "depth": 3,
     "id": "3673",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3673.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3673.png",
     "price": {
       "base": 340,
       "total": 1625,
@@ -6655,7 +7045,7 @@
     },
     "depth": 3,
     "id": "3675",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3675.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3675.png",
     "price": {
       "base": 625,
       "total": 1625,
@@ -6699,7 +7089,7 @@
     },
     "depth": 2,
     "id": "3706",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3706.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3706.png",
     "price": {
       "base": 300,
       "total": 1000,
@@ -6743,7 +7133,7 @@
     },
     "depth": 2,
     "id": "3711",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3711.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3711.png",
     "price": {
       "base": 300,
       "total": 1000,
@@ -6785,7 +7175,7 @@
     },
     "depth": 2,
     "id": "3715",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3715.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3715.png",
     "price": {
       "base": 300,
       "total": 1000,
@@ -6822,7 +7212,7 @@
     },
     "depth": 3,
     "id": "3742",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3742.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3742.png",
     "price": {
       "base": 1100,
       "total": 2900,
@@ -6863,7 +7253,7 @@
     },
     "depth": 3,
     "id": "3748",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3748.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3748.png",
     "price": {
       "base": 700,
       "total": 3500,
@@ -6900,7 +7290,7 @@
     },
     "depth": 2,
     "id": "3751",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3751.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3751.png",
     "price": {
       "base": 700,
       "total": 1100,
@@ -6942,7 +7332,7 @@
     },
     "depth": 3,
     "id": "3800",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3800.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3800.png",
     "price": {
       "base": 750,
       "total": 2500,
@@ -6973,7 +7363,7 @@
     },
     "depth": 2,
     "id": "3801",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3801.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3801.png",
     "price": {
       "base": 100,
       "total": 650,
@@ -7013,7 +7403,7 @@
     },
     "depth": 2,
     "id": "3802",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3802.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3802.png",
     "price": {
       "base": 115,
       "total": 900,
@@ -7047,7 +7437,7 @@
     },
     "depth": 3,
     "id": "3812",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3812.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3812.png",
     "price": {
       "base": 625,
       "total": 3500,
@@ -7067,7 +7457,7 @@
     "tags": [],
     "stats": {},
     "id": "3901",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3901.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3901.png",
     "price": {
       "base": 0,
       "total": 0,
@@ -7087,7 +7477,7 @@
     "tags": [],
     "stats": {},
     "id": "3902",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3902.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3902.png",
     "price": {
       "base": 0,
       "total": 0,
@@ -7107,7 +7497,7 @@
     "tags": [],
     "stats": {},
     "id": "3903",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.12.1/img/item/3903.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/item/3903.png",
     "price": {
       "base": 0,
       "total": 0,
