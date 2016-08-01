@@ -13,13 +13,24 @@ test('Adds "id"', (t) => res.then((items) => {
   t.assert(!!item.id, 'id property exists')
 }))
 
-test('Transmutes "image" object into an valid URL', (t) => res
+test('Transmutes "image" object into an valid URL icon', (t) => res
 .then((items) => {
   let item = items[0]
   t.assert(!item.image, 'image property is gone')
   return item
 })
 .then((item) => got(item.icon)))
+
+test('Transmutes "image" object into a sprite object', (t) => res
+.then((items) => {
+  let item = items[0]
+  t.assert(!item.image, 'image property is gone')
+  t.equal(typeof item.sprite, 'object', 'sprite property is an object')
+  t.equal(typeof item.sprite.x, 'number', 'sprite.x property contains x-coordinate')
+  t.equal(typeof item.sprite.y, 'number', 'sprite.y property contains y-coordinate')
+  return item
+})
+.then((item) => got(item.sprite.url)))
 
 test('Transmutes "into" into an array of items', (t) => res.then((items) => {
   let item = items[0]
