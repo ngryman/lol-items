@@ -1,5 +1,7 @@
 # lol-items [![npm][npm-image]][npm-url] [![travis][travis-image]][travis-url]
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ngryman/lol-items.svg)](https://greenkeeper.io/)
+
 [npm-image]: https://img.shields.io/npm/v/lol-items.svg?style=flat
 [npm-url]: https://npmjs.org/package/lol-items
 [travis-image]: https://img.shields.io/travis/ngryman/lol-items.svg?style=flat
