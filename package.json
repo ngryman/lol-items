@@ -17,7 +17,7 @@
     "test": "npm run lint -s && npm run spec -s",
     "watch": "onchange {,**/}*.js -- npm test -s",
     "build": "babel-node -e \"require('./').default({ flat: true }).then((items) => require('fs').writeFileSync('items.json', JSON.stringify(items, 0, 2)))\" --presets es2015",
-    "postinstall": "ln -nsf ../lib node_modules/lol-items",
+    "prebuild": "ln -nsf ../lib node_modules/lol-items",
     "prepublish": "npm run build -s"
   },
   "keywords": [
